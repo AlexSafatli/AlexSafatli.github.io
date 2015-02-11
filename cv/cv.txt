@@ -1,0 +1,110 @@
+Alexander Safatli
+Born: July 13, 1990
+asafatli@dal.ca
+safatli@dal.ca
++1 (902) 229-0408
+GitHub https://github.com/AlexSafatli/
+LinkedIn http://ca.linkedin.com/in/asafatli
+
+100 Birch Tree Ln, B3R2N8
+Halifax, Nova Scotia, Canada
+
+===================
+Summary
+===================
+
+An important friend of mine told me that I am someone who strives to create and expand, and the directions I tend to go are ones that others can fail to see. I see this as a virtue, and I consider different avenues in life to be opportunities to create. My objective is to find new directions, to build from there what others would find useful, and, as I do this, to enjoy the different avenues in life.
+
+I am currently a graduate student at Dalhousie University who is in his last term of studies towards a Master of Computer Science. My thesis topic is associated with a problem in the field of biology. Despite this, I see myself not as someone who specializes in that topic, but as someone who uses that topic to specialize in methodologies of computer science.
+
+I have taken numerous courses in different fields and topics of Computer Science, both at an undergraduate and graduate level, and have been the teaching assistant for a diverse a set of computer science courses. 
+
+While I have no work experience outside of a commercial and university environment, I am incredibly prepared to learn and adapt to new software, languages, and tools. As to my areas of interest, I aspire to design, build, and explore complex computer models, for any application area, to perform tasks of significance. Furthermore, I stress that I am a devout in good quality products as well as a firm believer in loyalty.
+
+===================
+Education
+===================
+
+Dalhousie University; Halifax, Canada 
+
+Master of Computer Science (Jan '14 - Apr '15)
+Continued education in Advanced Data Structures, Algorithms, Heuristics, and Natural Language Processing. Writing a thesis that explores a combinatorial space problem found in the field of bioinformatics. A visualization and exploration of the space and relevant heuristics are carried out. 
+>> Supervised by Assoc. Prof. Christian Blouin (cblouin@cs.dal.ca).
+
+Bachelor of Computer Science with Distinction - GPA 3.8 - Dean's List (2008 - 2014)
+Focused on advanced concepts in mathematics (incl. geometry, cryptography, linear algebra) alongside a strong understanding of chemistry, biology, and philosophy. The degree also featured experience working with clients inside the community through a Community Outreach program. Extracurricular. Computer Science Graduate Society, Executive Secretary for later term of 2014; Computer Science Society, Dalhousie University, Executive Secretary as of 2012-2013; Sodales Debating Society, Dalhousie University, Executive Secretary in 2010.
+
+===================
+Experience
+===================
+
+Dalhousie University; Halifax, Canada
+
+Teaching Assistantship, Assoc. Prof. Christian Blouin (2012 - 2014)
+Helped instruct classes of around 100 students and marked essays and examinations for Concepts in Computing and Applications in Computing first-year undergraduate courses. Also helped instruct and mark assignments for a smaller graduate-level course in concepts found in Bioinformatics.
+
+Teaching Assistantship, Prof. Philip T. Cox (Apr '14 - Sep '14)
+Helped mark assignments and examinations, alongside another teaching assistant, for the Principles of Programming Languages third-year undergraduate-level course.
+
+Research Assistant; Software Developer, Blouin Lab (2012 - 2014)
+Orchestrated work in different areas of bioinformatics. Helped construct software libraries for geometric morphometric analysis of 2D and 3D biological structures, for molecular dynamics, for protein homology modelling, and for the parsing of essential file formats. Performed a great deal of debugging and restructuring of existing code base.
+
+Teaching Assistantship, Instr. James Fleming (2012 - 2013)
+Helped in the evaluation of a class of around 75 students by marking formal oral presentations, midterm and final examinations for the Communication Skills: Oral/Written mid-undergraduate course introducing concepts associated with technical writing and presentation.
+
+Learning Centre Staff, Faculty of Computer Science (2012 - 2013)
+Worked as a tutor at set hours in a faculty help facility for any Computer Science or Informatics undergraduate-level course. 
+>> Supervised by Prof. Nauzer Kalyaniwalla (nauzerk@cs.dal.ca).
+
+Research Assistant, Prof. Mary Anne White (Apr '10 - Sep '10)
+Worked as a summer research assistant in the Department of Chemistry for a group focused on physical chemistry of materials, and helped write a journal article for the Ashrae 2011 Annual Conference on Solar Panels and the use of Phase Change Materials (PCMs) to store energy. A prototype was helped built for this manner of application for a local facility.
+
+Research Assistant, Prof. Peter Wentzell (Apr '09 - Sep '09)
+Worked as a summer research assistant in the Department of Chemistry for a group focused on chemometrics and the analysis of chemical data, and helped write a suite of software that helped in the finding of genetic motifs in DNA sequences and to evaluate statistical plots of findings.
+
+Cove Market & Video; Halifax, Canada 
+
+Sales Clerk
+Sep '04 - Sep '08
+Convenience store sales, stocking, and general aide.
+
+Please refer to my Linkedin profile for further details and any relevant recommendations.
+
+===================
+Publications
+===================
+
+Refer to my Linkedin profile.
+
+===================
+Awards
+===================
+
+Natural Sci. Eng. Research Council (NSERC); Canada
+
+Undergraduate Student Research Award (Jan '13, Jan '12, Jan '09)
+Procured funding for the working in a computer science laboratory during the summer term on the merit of grades and indication of interests. Awarded at three different occasions.
+
+===================
+Skills
+===================
+
+Technical Specialties:
+Software design and implementation, with(in) a team. Scientific writing. Advanced experience with Python/Java/C/C++/and regularly work with Objective-C and Perl. Elementary to intermediate knowledge with Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, R, and C. Solid knowledge of database technologies: MySQL, SQLite, NoSQL. Solid knowledge of web technologies: HTML+CSS, XML, REST, JavaScript (jQuery, D3). Linux administration skills: bash, Apache, MySQL, VMware.
+
+Methodologies:
+Have worked with different tools of machine learning including support vector machine (SVM) and random forests. Have also done a large deal of information extraction, data classification, data visualization, and data mining using conventional and classical tools.
+
+
+Natural Languages:
+English (mother tongue), Arabic (limited working proficiency), and French (elementary proficiency).
+
+===================
+Interests 
+===================
+
+Non-exhaustive and in alphabetical order:
+Art, cryptography, gaming, music, open source, philosophy, software engineering, typography (e.g. graphic design, ).
+
+
+

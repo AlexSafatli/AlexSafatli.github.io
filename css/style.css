@@ -12,17 +12,8 @@ h1, h2 {
 
 h3, h4 {
 	font-family: "HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif; 
-	font-weight:400; 
+	font-weight:600; 
 	font-stretch:normal;
-}
-
-h4 {
-	background: url('../media/line.png') no-repeat 0 12px;
-}
-
-h4 span {
-	padding-right: 10px;
-	background-color: white;
 }
 
 .light {
@@ -35,6 +26,10 @@ h4 span {
 
 html, body {
     height: 100%;
+}
+
+li {
+   margin:0 0 10px 0;   
 }
 
 body {
@@ -110,6 +105,12 @@ blockquote {
 
 #accordion {
 	margin-bottom: 20px;
+}
+
+#page {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
 }
 
 #margin {
@@ -288,15 +289,12 @@ a.niceLink:hover {
 
 /* Table CSS Rules */
 
-table.centered {
-	text-align: center;
-}
-
 table {
 	border: 0;
 	border-collapse: collapse;
 	width: 700px;
 	margin: auto;
+	text-align: center;
 }
 
 table tr td {
@@ -329,7 +327,6 @@ img.side {
 img.schematic, img.mug {
 	width: 320px;
 }
-
 
 /* Option CSS for Isotope */
 

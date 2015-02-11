@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: margined
 permalink: /
-title: Alexander Safatli
+title: Home
 subtitle: Prospective Software Developer, B.C.Sci., M.C.Sci.
 image: shebang.png
 image_alt: Shebang Symbol
