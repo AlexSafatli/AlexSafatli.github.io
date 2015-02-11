@@ -48,6 +48,16 @@ hr {
 	background: black;
 }
 
+blockquote {
+	clear:left;	
+	width:100%;
+	border-left: 4px solid #ddd;
+	color: #777;
+	padding: 0 15px;
+}
+
+/* Custom Layout */
+
 #wrap {
 	width: 950px;
 	margin: auto;
