@@ -8,41 +8,26 @@
       <h1>Alexander Safatli</h1>
       <h2><em>{{ page.subtitle }}</em></h2>
       
-      </div>
+    </div>
     
     <div id="navbar">
       
       <ul>
-	<li><a href="index.html" class="active">Home</a></li>
-	<li><a href="media/cv.pdf">Curriculum Vitae</a></li>
-	</ul>
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="media/cv.pdf">Curriculum Vitae</a></li>
+      </ul>
       
-      </div>
+    </div>
     
     <div id="content">
-      
-      <div id="margin">
-	
-	<h3>Welcome to the portfolio of Alex Safatli.</h3>
-	
-	<p>Hey there! My name is Alex 
-Safatli and I'm a Masters of Computer Science (MCS) student here at 
-Dalhousie University.</p>
-	
-	<p>This website is intended to showcase some of my achievements, projects, and bits and pieces and will be expanded upon on as time passes.</p>
-	
-	</div>
-      
-      <img src="media/shebang.png" alt="Shebang Symbol" class="side" />
-      
-      <div class="clearfix"></div>
-      
-      </div>
+      <div id="margin">{{ content }}</div>
+      {% if page.image %}<img src="media/{{ page.image }}" alt="{{ page.image_alt }}" class="side" />{% endif %}
+      <div class="clearfix"></div>  
+    </div>
     
     <div id="footer">{% include footer.html %}</div>
 
-    </div>
+  </div>
 
-  </body>
-
+</body>
 </html>
