@@ -1,0 +1,433 @@
+/* Headers
+
+Information on web-safe Helvetica Neue font stack 
+from http://rachaelmoore.name/posts/design/css/web-safe-helvetica-font-stack/ */
+
+h1, h2 {
+	font-family: "HelveticaNeueUltraLight", "HelveticaNeue-Ultra-Light", "Helvetica Neue Ultra Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Arial", sans-serif; 
+	font-weight:100; 
+	font-stretch:normal;
+	margin: 2px 0;
+}
+
+h3, h4 {
+	font-family: "HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif; 
+	font-weight:400; 
+	font-stretch:normal;
+}
+
+h4 {
+	background: url('../media/line.png') no-repeat 0 12px;
+}
+
+h4 span {
+	padding-right: 10px;
+	background-color: white;
+}
+
+.light {
+	font-family: "HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif; 
+	font-weight:400; 
+	font-stretch:normal;
+}
+
+/* Base Layout */
+
+html, body {
+    height: 100%;
+}
+
+body {
+	background-color: #B52A2A;
+}
+
+hr {
+	border: 0;
+	height: 1px;
+	color: black;
+	background: black;
+}
+
+#wrap {
+	width: 950px;
+	margin: auto;
+}
+
+#header {
+	padding: 5px;
+	color: white;
+	margin: 10px;
+	float: left;
+}
+
+#navbar {
+	float: right;
+	font-family: "HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif; 
+	font-weight:300; 
+	font-stretch:normal;
+}
+
+#navbar li {
+	display: inline;
+}
+
+#navbar ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+#navbar a {
+	text-align: center;
+	text-decoration: none;
+	padding: 10px 3px;
+	color: white;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#navbar a:hover, #navbar a.active {
+	border-top: 6px solid white;
+}
+
+#content {
+	clear: both;
+	background-color: #FFF;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	border: 7px solid black;
+	padding: 10px;
+	padding-top: 5px;
+	margin: 10px;
+}
+
+#accordion {
+	margin-bottom: 20px;
+}
+
+#blurb {
+	width: 400px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
+	float: left;
+}
+
+.cozy-text {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.top {
+	padding-top:  5px;
+}
+
+#main {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
+}
+
+
+#image_container, #container {
+	width: 85%;
+	margin: auto;
+  	clear: both;
+}
+
+#container {
+	width: 100%;
+}
+
+#footer {
+	margin: 25px 0 10px;
+	min-height: 60px;
+	clear: both;
+	text-align: center;
+	color: white;
+	font: 0.75em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	padding-bottom: 20px;
+}
+
+#footer a {
+	color: white;
+	font-weight: bold;
+}
+
+#footer a:hover {
+	color: #ddd;	
+}
+
+.side {
+	float: right;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 20px;
+}
+
+/* Links & Specialized */
+
+a {
+	color: #5E5E5E;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	color: black;
+}
+
+abbr {
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+}
+
+a.niceLink {
+	font-size: small;
+	background-color: #B52A2A;
+	color: white;
+	float: right;
+	margin: 20px;
+	padding: 0.4em 0.5em;
+	font-weight: bold;
+}
+
+a.niceLink:hover {
+	background-color: black;
+}
+
+.scriptType {
+	padding: 5px;
+	background: gray repeat-x;
+	color: white;
+	font-variant: small-caps;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+	margin-bottom: -15px;
+}
+
+.salutation {
+	float: right;
+	margin: 20px;
+	padding: 0.4em 0.5em;	
+	font-family: "HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+	font-weight:400; 
+	font-stretch:normal;
+}
+
+.album {
+	margin: 20px;
+	margin-left: 40px;
+	padding: 5px;
+	padding-bottom: 3px;
+	border: 4px solid black;
+	text-align: center;
+}
+
+.element {
+	width: 170px;
+	height: 170px;
+	margin: 5px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+	background: #B52A2A;
+	color: white;
+	-webkit-border-top-right-radius: 1.2em;
+	    -moz-border-radius-topright: 1.2em;
+	        border-top-right-radius: 1.2em;
+}
+
+.element.wide {
+	width: 340px;
+}
+
+.element.tall {
+	height: 340px;
+}
+
+.element.wide.tall {
+	font-size:1.8em;
+}
+
+.element * {
+  position: absolute;
+  margin: 0;
+}
+
+.element .name {
+  left: 0.2em;
+  bottom: 2.0em;
+  font-size: 1.8em;
+  line-height: 1.0em;
+}
+
+.element .description {
+	left: 0.5em;
+	bottom: 0.5em;
+	color: hsla(0,0%,0%,.5);
+	font-size: 0.9em;
+	max-width: 70%;
+}
+
+.element .type {
+  font-size: 1em;
+  font-weight: bold;
+  color: hsla(0,0%,0%,.5);
+  right: 0.5em;
+  top: 0.5em;
+}
+
+/* Table CSS Rules */
+
+table.centered {
+	text-align: center;
+}
+
+table {
+	border: 0;
+	border-collapse: collapse;
+	width: 700px;
+	margin: auto;
+}
+
+table tr td {
+	padding: 10px;
+	border: 0;
+	min-width: 120px;
+}
+
+thead, tfoot {
+	background-color: #DEDEDE;
+	color: #333;
+	font-weight: bold;
+}
+
+
+/* Image CSS Rules */
+
+img.center {
+	display: block;
+	margin: auto;
+}
+
+img.side {
+	float: right;
+	z-index: 1;
+	background-color: white;
+	padding: 20px;
+}
+
+img.schematic, img.mug {
+	width: 320px;
+}
+
+
+/* Option CSS for Isotope */
+
+#layoutSelects {
+	width: 45%;
+	margin: 30px auto 60px;
+	font-size: 0.9em;
+	padding: 2px;
+}
+
+#layoutSelects span {
+	display: block;
+  	padding: 0.4em 0.5em;
+	float: left;
+	font-weight: bold;
+}
+
+#layoutSelects ul {
+  margin: 0;
+  list-style: none;
+}
+
+#layoutSelects ul ul {
+  margin-left: 1.5em;
+}
+
+#layoutSelects li {
+  float: left;
+  margin-bottom: 0.2em;
+}
+
+#layoutSelects li a {
+  display: block;
+  padding: 0.4em 0.5em;
+  background-color: #DDD;
+  color: #222;
+  font-weight: bold;
+}
+
+#layoutSelects li a:hover {
+  background-color: #D63A3A;
+  color: white;
+}
+
+#layoutSelects li a:active {
+  background-color: #B52A2A;
+}
+
+#layoutSelects li a.selected {
+  background-color: #B52A2A;
+  text-shadow: none;
+  color: white;
+}
+
+/* Clickable Elements */
+
+a.elementLink {
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+}
+
+
+/* Isotope Filtering */
+
+.isotope-item {
+  z-index: 2;
+}
+
+.isotope-hidden.isotope-item {
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Isotope CSS3 transitions */
+
+.isotope,
+.isotope .isotope-item {
+  -webkit-transition-duration: 0.8s;
+     -moz-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+}
+
+.isotope {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.isotope .isotope-item {
+  -webkit-transition-property: -webkit-transform, opacity;
+     -moz-transition-property:    -moz-transform, opacity;
+          transition-property:         transform, opacity;
+}
+
+/* Disabling Isotope CSS3 transitions */
+
+.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition {
+  -webkit-transition-duration: 0s;
+     -moz-transition-duration: 0s;
+          transition-duration: 0s;
+}
+
+/* Clearfix */
+
+.clearfix {
+	clear: both;
+}
