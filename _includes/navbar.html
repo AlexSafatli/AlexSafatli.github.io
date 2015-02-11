@@ -1,0 +1,7 @@
+<ul>
+  {% for item in site.data.nav %}
+  {% assign current = nil %}
+  {% if page.url == item.href %}{% assign current = 'active' %}{% endif %}
+  <li><a {% if current != nil %}class="{{ current }}"{% endif %} href="{{ site.url }}{{ item.href }}">{{ item.title }}</a></li>
+  {% endfor %}
+</ul>

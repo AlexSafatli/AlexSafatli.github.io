@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /
 title: Alexander Safatli
 subtitle: Prospective Software Developer, B.C.Sci., M.C.Sci.
 image: shebang.png

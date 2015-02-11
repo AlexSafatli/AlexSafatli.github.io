@@ -49,7 +49,6 @@ hr {
 }
 
 blockquote {
-	clear:left;	
 	width:100%;
 	border-left: 4px solid #ddd;
 	color: #777;
