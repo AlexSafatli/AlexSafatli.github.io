@@ -93,7 +93,8 @@ blockquote {
 
 #navbar {
 	float: right;
-	font-family: "Latin Modern Roman", serif;
+	font-family: "HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Ne
+ue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
 	font-weight:300; 
 	font-stretch:normal;
 }
