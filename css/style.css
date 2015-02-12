@@ -1,10 +1,37 @@
-/* Headers
+/* Latin Modern (LaTeX default) Font Definitions (https://github.com/AndrewBelt/WiTeX/blob/master/style.css) */
 
-Information on web-safe Helvetica Neue font stack 
-from http://rachaelmoore.name/posts/design/css/web-safe-helvetica-font-stack/ */
+@font-face {
+	font-family: 'Latin Modern Roman';
+	font-weight: normal;
+	font-style: normal;
+	src: url('//cdn.rawgit.com/AndrewBelt/WiTeX/master/fonts/lmroman10-regular.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Latin Modern Roman';
+	font-weight: bold;
+	font-style: normal;
+	src: url('//cdn.rawgit.com/AndrewBelt/WiTeX/master/fonts/lmroman10-bold.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Latin Modern Roman';
+	font-weight: normal;
+	font-style: italic;
+	src: url('//cdn.rawgit.com/AndrewBelt/WiTeX/master/fonts/lmroman10-italic.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Latin Modern Roman';
+	font-weight: bold;
+	font-style: italic;
+	src: url('//cdn.rawgit.com/AndrewBelt/WiTeX/master/fonts/lmroman10-bolditalic.woff') format('woff');
+}
+
+/* Headers  */
 
 h1, h2 {
-	font-family: "HelveticaNeueUltraLight", "HelveticaNeue-Ultra-Light", "Helvetica Neue Ultra Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Arial", sans-serif; 
+	font-family: "Latin Modern Roman", serif; /* Latex Inspired Font for Main Headers */
 	font-weight:100; 
 	font-stretch:normal;
 	margin: 2px 0;
@@ -22,14 +49,14 @@ h3, h4 {
 	font-stretch:normal;
 }
 
-/* Base Layout */
+/* Basic Layout Components */
 
 html, body {
     height: 100%;
 }
 
 li {
-   margin:0 0 10px 0;   
+	margin:0 0 10px 0;   
 }
 
 body {
@@ -50,7 +77,7 @@ blockquote {
 	padding: 0 15px;
 }
 
-/* Custom Layout */
+/* Custom Definitions */
 
 #wrap {
 	width: 950px;
@@ -66,7 +93,7 @@ blockquote {
 
 #navbar {
 	float: right;
-	font-family: "HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif; 
+	font-family: "Latin Modern Roman", serif;
 	font-weight:300; 
 	font-stretch:normal;
 }
@@ -153,7 +180,7 @@ blockquote {
 	clear: both;
 	text-align: center;
 	color: white;
-	font: 0.75em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font: 0.75em "Latin Modern Roman", serif;
 	padding-bottom: 20px;
 }
 
