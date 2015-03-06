@@ -17,6 +17,7 @@ These projects are intended for specific uses in the field of **computational bi
 
 Small libraries, scripts, or utilities I have put together to help coding with specialized or general software projects.
 
+  - [TwitchSharp](https://github.com/AlexSafatli/TwitchSharp): A C# API to the REST API for the gaming stream Twitch.TV platform.
   - [App-Icon-Template](https://github.com/AlexSafatli/App-Icon-Template): A package to help create icons for XCode iOS/OS X applications in the open-source Inkscape application. A fork from another project and updated to work with newer iOS 8 standards.
 
 ### Hobby Projects
