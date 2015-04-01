@@ -7,7 +7,7 @@ image: shebang.png
 image_alt: Shebang Symbol
 ---
 
-> *[D]oes Aristotle mean that cities as they presently exist, with all their strife and so little justice, are places where we fulfill our nature? Or does he instead mean that it is our nature to live in true cities - cities that do not yet exist, but that we should try to build?* -- Richard Kraut
+> *The great use of life is to spend it for something that will outlast it.* -- William James
 
 ### Description
 
