@@ -2,7 +2,7 @@
 layout: margined
 permalink: /
 title: Home
-subtitle: Prospective Software Developer, B.C.Sci., M.C.Sci.
+subtitle: Prospective Software Developer, M.C.Sci.
 image: shebang.png
 image_alt: Shebang Symbol
 ---
@@ -11,11 +11,11 @@ image_alt: Shebang Symbol
 
 ### Description
 
-I am a Masters of Computer Science ([M.C.Sci.](http://en.wikipedia.org/wiki/Master_of_Science_in_Information_Technology)) student finishing the remainder of my degree at [Dalhousie University](http://dal.ca) in [Halifax, Nova Scotia](https://www.google.ca/maps/place/Halifax,+NS/), Canada.
+I am a Masters of Computer Science ([M.C.Sci.](http://en.wikipedia.org/wiki/Master_of_Science_in_Information_Technology)) graduate student completing the remainder of my degree requirements at [Dalhousie University](http://dal.ca) in [Halifax, Nova Scotia](https://www.google.ca/maps/place/Halifax,+NS/), Canada.
 
-### Purpose
+### Interests
 
-This webpage is intended to showcase my current and past projects, as well as to provide a gateway for finding information about me or getting in contact with me.
+Computationally expensive problems and complex data structures have a place near to my heart. Furthermore, both operating system and language development are areas of computing science that I wish to pursue further, beyond theory and into practical application.
 
 ### Availability
 
