@@ -15,4 +15,4 @@ Master of Computer Science ([MCS](http://en.wikipedia.org/wiki/Master_of_Science
 
 ### Interests
 
-Computationally expensive problems and complex data structures have a place near to my heart. Furthermore, both operating system and language development are areas of computing that I wish to pursue further, beyond theory and into practical application.
+Computationally expensive problems and complex data structures have a place near to my heart. Furthermore, both operating system and language development are areas of computing that I wish to pursue further.

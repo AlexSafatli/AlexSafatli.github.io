@@ -15,13 +15,19 @@ My *Curriculum Vitae* (CV) can be downloaded in the following formats.
 
 ### Highlights
 
-The following is a brief excerpt of my educational and work experience.
+The most pertinent information involving my education and skills are below.
 
 #### Education
 
-  - **Master of Computer Science (Jan 2014 - Apr 2015) from Dalhousie University, Halifax, Canada** -- Continued education in Advanced Data Structures, Algorithms, Heuristics, and Natural Language Processing. Completed a thesis exploring a combinatorial space problem found in the field of bioinformatics. A visualization, exploration of the space, and relevant heuristics are carried out. Supervised by Assoc. Prof. Christian Blouin (<cblouin@cs.dal.ca>).
+  - **Master of Computer Science (2014 - 2015) from Dalhousie University, Halifax, Canada** 
+    - Education in Adv. Data Structures, Algorithms, Heuristics, and Natural Language Processing.
+    - Written a thesis "Sampling Discrete Combinatorial Spaces in Phylogenetics" on combinatorial space visualization and analysis in bioinformatics.
+    - Supervised by Assoc. Prof. Christian Blouin (cblouin@cs.dal.ca).
 
-  - **Bachelor of Computer Science with Distinction - GPA 3.8 - Dean's List (Sep 2008 - Dec 2013) from Dalhousie University, Halifax, Canada** -- Focused on advanced concepts in mathematics (incl. geometry, cryptography, linear algebra) alongside a strong understanding of chemistry, biology, and philosophy. The degree also featured experience working with clients inside the community through a Community Outreach program. Extracurricular. Computer Science Graduate Society, Executive Secretary for later term of 2014; Computer Science Society, Dalhousie University, Executive Secretary as of 2012-2013; Sodales Debating Society, Dalhousie University, Executive Secretary in 2010.
+  - **Bachelor of Computer Science with Distinction - GPA 3.8 - Dean's List (2008 - 2013) from Dalhousie University, Halifax, Canada**
+    - Thorough understanding of computer science fundamentals.
+    - Further focus on adv. concepts in mathematics (geometry, cryptography, linear algebra) alongside a strong understanding of chemistry.
+    - Featured experience working with clients through a Community Outreach program.
 
 #### Skills
 

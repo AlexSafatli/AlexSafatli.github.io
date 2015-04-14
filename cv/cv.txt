@@ -1,25 +1,22 @@
 Alexander Safatli
 Born: July 13, 1990
-asafatli@dal.ca
-safatli@dal.ca
+safatli@cs.dal.ca
 +1 (902) 229-0408
 GitHub https://github.com/AlexSafatli/
 LinkedIn http://ca.linkedin.com/in/asafatli
 
-100 Birch Tree Ln, B3R2N8
+100 Birch Tree Ln, B3R 2N8
 Halifax, Nova Scotia, Canada
 
 ===================
 Summary
 ===================
 
-An important friend of mine told me that I am someone who strives to create and expand, and the directions I tend to go are ones that others can fail to see. I see this as a virtue, and I consider different avenues in life to be opportunities to create. My objective is to find new directions, to build from there what others would find useful, and, as I do this, to enjoy the different avenues in life.
+Graduate of a Master of Computer Science program in October 2015. I have completed all of my program requirements. I am searching for employment that will allow me to grow professionally and to exercise techniques of software development and engineering.
 
-I am currently a graduate student at Dalhousie University who is in his last term of studies towards a Master of Computer Science. My thesis topic is associated with a problem in the field of biology. Despite this, I see myself not as someone who specializes in that topic, but as someone who uses that topic to specialize in methodologies of computer science.
+I have taken numerous courses in different fields and topics of Computer Science, both at an undergraduate and graduate level, and have been the teaching assistant for a diverse set of computer science courses. 
 
-I have taken numerous courses in different fields and topics of Computer Science, both at an undergraduate and graduate level, and have been the teaching assistant for a diverse a set of computer science courses. 
-
-While I have no work experience outside of a commercial and university environment, I am incredibly prepared to learn and adapt to new software, languages, and tools. As to my areas of interest, I aspire to design, build, and explore complex computer models, for any application area, to perform tasks of significance. Furthermore, I stress that I am a devout in good quality products as well as a firm believer in loyalty.
+I am very prepared to learn new methodologies and techniques. I aspire to design, build, and explore complex computer models. I also aspire to outgrow any duties given to me. I promise to provide maximum effort, to be open to criticism and new ideas, and to be someone you can trust to adapt and perform.
 
 ===================
 Education
@@ -27,12 +24,15 @@ Education
 
 Dalhousie University; Halifax, Canada 
 
-Master of Computer Science (Jan '14 - Apr '15)
-Continued education in Advanced Data Structures, Algorithms, Heuristics, and Natural Language Processing. Writing a thesis that explores a combinatorial space problem found in the field of bioinformatics. A visualization and exploration of the space and relevant heuristics are carried out. 
->> Supervised by Assoc. Prof. Christian Blouin (cblouin@cs.dal.ca).
+Master of Computer Science (2014 - 2015)
+  - Education in Adv. Data Structures, Algorithms, Heuristics, and Natural Language Processing.
+  - Written a thesis "Sampling Discrete Combinatorial Spaces in Phylogenetics" on combinatorial space visualization and analysis in bioinformatics.
+  - Supervised by Assoc. Prof. Christian Blouin (cblouin@cs.dal.ca).
 
 Bachelor of Computer Science with Distinction - GPA 3.8 - Dean's List (2008 - 2014)
-Focused on advanced concepts in mathematics (incl. geometry, cryptography, linear algebra) alongside a strong understanding of chemistry, biology, and philosophy. The degree also featured experience working with clients inside the community through a Community Outreach program. Extracurricular. Computer Science Graduate Society, Executive Secretary for later term of 2014; Computer Science Society, Dalhousie University, Executive Secretary as of 2012-2013; Sodales Debating Society, Dalhousie University, Executive Secretary in 2010.
+  - Thorough understanding of computer science fundamentals.
+  - Further focus on adv. concepts in mathematics (geometry, cryptography, linear algebra) alongside a strong understanding of chemistry.
+  - Featured experience working with clients through a Community Outreach program.
 
 ===================
 Experience
@@ -40,33 +40,29 @@ Experience
 
 Dalhousie University; Halifax, Canada
 
-Teaching Assistantship, Assoc. Prof. Christian Blouin (2012 - 2014)
-Helped instruct classes of around 100 students and marked essays and examinations for Concepts in Computing and Applications in Computing first-year undergraduate courses. Also helped instruct and mark assignments for a smaller graduate-level course in concepts found in Bioinformatics.
+Teaching Assistantship -- Operating Systems (Winter 2015)
+  Assist. Prof. Michael McAllister
 
-Teaching Assistantship, Prof. Philip T. Cox (Apr '14 - Sep '14)
-Helped mark assignments and examinations, alongside another teaching assistant, for the Principles of Programming Languages third-year undergraduate-level course.
+Teaching Assistantship -- Principles of Programming Languages (Summer 2014)
+  Prof. Philip T. Cox
+
+Teaching Assistantship -- Concepts in Computing AND Bioinformatics (2012 - 2014)
+  Assoc. Prof. Christian Blouin (2012 - 2014)
 
 Research Assistant; Software Developer, Blouin Lab (2012 - 2014)
 Orchestrated work in different areas of bioinformatics. Helped construct software libraries for geometric morphometric analysis of 2D and 3D biological structures, for molecular dynamics, for protein homology modelling, and for the parsing of essential file formats. Performed a great deal of debugging and restructuring of existing code base.
 
-Teaching Assistantship, Instr. James Fleming (2012 - 2013)
-Helped in the evaluation of a class of around 75 students by marking formal oral presentations, midterm and final examinations for the Communication Skills: Oral/Written mid-undergraduate course introducing concepts associated with technical writing and presentation.
+Teaching Assistantship -- Communication Skills: Oral/Written (2012 - 2013)
+  Instr. James Fleming
 
 Learning Centre Staff, Faculty of Computer Science (2012 - 2013)
-Worked as a tutor at set hours in a faculty help facility for any Computer Science or Informatics undergraduate-level course. 
->> Supervised by Prof. Nauzer Kalyaniwalla (nauzerk@cs.dal.ca).
+Worked as a tutor at set hours in a faculty help facility for any Computer Science or Informatics undergraduate-level course. Supervised by Prof. Nauzer Kalyaniwalla.
 
-Research Assistant, Prof. Mary Anne White (Apr '10 - Sep '10)
+Research Assistant, Prof. Mary Anne White (Summer 2010)
 Worked as a summer research assistant in the Department of Chemistry for a group focused on physical chemistry of materials, and helped write a journal article for the Ashrae 2011 Annual Conference on Solar Panels and the use of Phase Change Materials (PCMs) to store energy. A prototype was helped built for this manner of application for a local facility.
 
-Research Assistant, Prof. Peter Wentzell (Apr '09 - Sep '09)
+Research Assistant, Prof. Peter Wentzell (Summer 2009)
 Worked as a summer research assistant in the Department of Chemistry for a group focused on chemometrics and the analysis of chemical data, and helped write a suite of software that helped in the finding of genetic motifs in DNA sequences and to evaluate statistical plots of findings.
-
-Cove Market & Video; Halifax, Canada 
-
-Sales Clerk
-Sep '04 - Sep '08
-Convenience store sales, stocking, and general aide.
 
 Please refer to my Linkedin profile for further details and any relevant recommendations.
 
@@ -82,7 +78,7 @@ Awards
 
 Natural Sci. Eng. Research Council (NSERC); Canada
 
-Undergraduate Student Research Award (Jan '13, Jan '12, Jan '09)
+Undergraduate Student Research Award (2013, 2012, 2009)
 Procured funding for the working in a computer science laboratory during the summer term on the merit of grades and indication of interests. Awarded at three different occasions.
 
 ===================
