@@ -22,8 +22,8 @@ The most pertinent information involving my education and skills are below.
   - **Master of Computer Science (2014 - 2015) from [Dalhousie University](http://dal.ca)** 
 
     - Education in Adv. Data Structures, Algorithms, Heuristics, and Natural Language Processing.
-    - Written a thesis "Sampling Discrete Combinatorial Spaces in Phylogenetics" on combinatorial space visualization and analysis in bioinformatics.
-    - Supervised by Assoc. Prof. Christian Blouin (cblouin@cs.dal.ca).
+    - Written a thesis *Sampling Discrete Combinatorial Spaces in Phylogenetics* on combinatorial space visualization and analysis in bioinformatics.
+    - Supervised by Assoc. Prof. [Christian Blouin](mailto:cblouin@cs.dal.ca).
 
   - **Bachelor of Computer Science with Distinction (2008 - 2013) from [Dalhousie University](http://dal.ca)**
 
@@ -33,7 +33,14 @@ The most pertinent information involving my education and skills are below.
 
 #### Skills
 
-  - **Technical Specialties**: Software design and implementation, with(in) a team. Scientific writing. Advanced experience with Python/Java/C/LaTeX and regularly work with Objective-C, C# (.NET framework), C++, and Perl. Elementary to intermediate knowledge with Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R. Solid knowledge of database technologies: MySQL, SQLite, NoSQL. Solid knowledge of web technologies: HTML+CSS, XML, REST, JavaScript (jQuery, D3). Linux administration skills: bash, Apache, MySQL, VMware.
+  - **Technical Specialties**
+
+    - Software design and implementation, with(in) a team.
+    - Scientific writing.
+    - Advanced experience with Python/Java/C/LaTeX and regularly work with Objective-C, C# (.NET framework), C++, and Perl.
+    - Elementary to intermediate knowledge with Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R.
+    - Solid knowledge of database technologies: MySQL, SQLite, NoSQL. 
+    - Solid knowledge of web technologies: HTML+CSS, XML, REST, JavaScript (jQuery, D3). Linux administration skills: bash, Apache, MySQL, VMware.
 
   - **Methodologies**: Have worked with different tools of machine learning including support vector machine (SVM) and random forests. Have also done a large deal of information extraction, data classification, data visualization, and data mining using conventional and classical tools.
 
