@@ -35,12 +35,11 @@ The most pertinent information involving my education and skills are below.
 
   - **Technical Specialties**
 
-    - Software design and implementation, with(in) a team.
-    - Scientific writing.
-    - Advanced experience with Python/Java/C/LaTeX and regularly work with Objective-C, C# (.NET framework), C++, and Perl.
-    - Elementary to intermediate knowledge with Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R.
-    - Solid knowledge of database technologies: MySQL, SQLite, NoSQL. 
-    - Solid knowledge of web technologies: HTML+CSS, XML, REST, JavaScript (jQuery, D3). Linux administration skills: bash, Apache, MySQL, VMware.
+    - Scientific and technical writing.
+    - Advanced Experience: Python, Java, C, LaTeX, Objective-C, C# (.NET framework), C++, and Perl.
+    - Elementary to Intermediate Experience: Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R.
+    - Database technologies: MySQL, SQLite, NoSQL.
+    - Web technologies: HTML+CSS, XML, REST, JavaScript (jQuery, D3). 
 
   - **Methodologies**: Have worked with different tools of machine learning including support vector machine (SVM) and random forests. Have also done a large deal of information extraction, data classification, data visualization, and data mining using conventional and classical tools.
 
