@@ -15,8 +15,6 @@ My *Curriculum Vitae* (CV) can be downloaded in the following formats.
 
 ### Highlights
 
-The most pertinent information involving my education and skills are below.
-
 #### Education
 
   - **Master of Computer Science (2014 - 2015) from [Dalhousie University](http://dal.ca)** 

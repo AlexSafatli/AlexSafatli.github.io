@@ -7,17 +7,17 @@ subtitle: Software Projects
 
 ### Computational Biology
 
-These projects are intended for specific uses in the field of **computational biology**.
+Projects that came out of work in an area of **computational biology** or bioinformatics during my Master degree research.
 
-  - [Pylogeny](https://github.com/AlexSafatli/Pylogeny): A Python framework for the phylogenetic tree landscape, a discrete combinatorial search space.
-  - [ABeRMuSA](https://github.com/AlexSafatli/ABeRMuSA): A Python command-line program for the construction of multiple structural alignments of three-dimensional protein structures by using a simple pairwise alignment strategy.
-  - [LabBlouinTools](https://github.com/LabBlouin/LabBlouinTools): Contributed majorly to this project of unifying common scripts and libraries for the computational biology laboratory I was a part of.
+  - [Pylogeny](https://github.com/AlexSafatli/Pylogeny): A Python framework for working with discrete combinatorics in [phylogeny](http://en.wikipedia.org/wiki/Phylogenetics).
+  - [ABeRMuSA](https://github.com/AlexSafatli/ABeRMuSA): A Python command line utility for three-dimensional protein structure alignment by using a simple pairwise alignment strategy.
+  - [LabBlouinTools](https://github.com/LabBlouin/LabBlouinTools): Common scripts and libraries for the computational biology laboratory I was a part of.
 
 ### Code Productivity
 
 Small libraries, scripts, or utilities I have put together to help coding with specialized or general software projects.
 
-  - [TwitchSharp](https://github.com/AlexSafatli/TwitchSharp): A C# API to the REST API for the gaming stream Twitch.TV platform.
+  - [TwitchSharp](https://github.com/AlexSafatli/TwitchSharp): A C# API to the REST API for the gaming stream [Twitch.TV](http://twitch.tv) platform.
   - [App-Icon-Template](https://github.com/AlexSafatli/App-Icon-Template): A package to help create icons for XCode iOS/OS X applications in the open-source Inkscape application. A fork from another project and updated to work with newer iOS 8 standards.
 
 ### Hobby Projects

@@ -2,7 +2,7 @@
 layout: margined
 permalink: /
 title: Home
-subtitle: Prospective Software Developer, MCS
+subtitle: Software Engineer, MCS
 image: shebang.png
 image_alt: Shebang Symbol
 ---
@@ -11,8 +11,8 @@ image_alt: Shebang Symbol
 
 ### Description
 
-Master of Computer Science ([MCS](http://en.wikipedia.org/wiki/Master_of_Science_in_Information_Technology)) graduate student completing the remainder of my degree requirements at [Dalhousie University](http://dal.ca) in [Halifax, Nova Scotia](https://www.google.ca/maps/place/Halifax,+NS/), Canada.
+Recent graduate from [Dalhousie University](http://dal.ca) and passionate about software design and architecture. Currently living in [Halifax, Nova Scotia](https://www.google.ca/maps/place/Halifax,+NS/), Canada. Seeking entry-level employment and am willing to relocate.
 
 ### Interests
 
-Computationally expensive problems and complex data structures have a place near to my heart. Furthermore, both operating system and language development are areas of computing that I wish to pursue further.
+Computationally difficult problems and complex data structures have a place near to my heart. Furthermore, both operating systems, embedded systems, and language development are areas that I wish to pursue further.
