@@ -85,7 +85,7 @@ Skills
 ===================
 
 Technical Specialties:
-Software design and implementation, with(in) a team. Scientific writing. Advanced experience with Python/Java/C/LaTeX and regularly work with Objective-C, C# (.NET framework), C++, and Perl. Elementary to intermediate knowledge with Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R. Solid knowledge of database technologies: MySQL, SQLite, NoSQL. Solid knowledge of web technologies: HTML+CSS, XML, REST, JSON, JavaScript (jQuery, D3).
+Software design and implementation, with(in) a team. Scientific writing. Advanced experience with Python/Java/C/LaTeX and regularly work with Objective-C, C# (.NET framework), and Perl. Elementary to intermediate knowledge with C++, Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R. Solid knowledge of database technologies: MySQL, SQLite, NoSQL. Solid knowledge of web technologies: HTML+CSS, XML, REST, JSON, JavaScript (jQuery, D3).
 
 Methodologies:
 Have worked with different tools of machine learning including support vector machine (SVM) and random forests. Have also done a large deal of information extraction, data classification, data visualization, and data mining using conventional and classical tools.
