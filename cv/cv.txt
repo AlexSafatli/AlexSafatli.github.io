@@ -12,11 +12,10 @@ Halifax, Nova Scotia, Canada
 Summary
 ===================
 
-Graduate of a Master of Computer Science program in October 2015. I have completed all of my program requirements. I am searching for employment that will allow me to grow professionally and to exercise techniques of software development and engineering.
+Recent graduate of a Master of Computer Science program at Dalhousie University. Software developer with a reputation for rigorous thinking and methodological consistency. I am looking to start my career in the private sector.
 
-I have taken numerous courses in different fields and topics of Computer Science, both at an undergraduate and graduate level, and have been the teaching assistant for a diverse set of computer science courses. 
-
-I am very prepared to learn new methodologies and techniques. I aspire to design, build, and explore complex computer models. I also aspire to outgrow any duties given to me. I promise to provide maximum effort, to be open to criticism and new ideas, and to be someone you can trust to adapt and perform.
+I aspire to learn, design, build, and explore complex computer models. I also aspire to outgrow any duties given to me. I promise to provide maximum effort, to be open to criticism and new ideas, and to be someone you can trust to adapt
+and perform to new situations and technologies.
 
 ===================
 Education
@@ -40,19 +39,19 @@ Experience
 
 Dalhousie University; Halifax, Canada
 
-Teaching Assistantship -- Operating Systems (Winter 2015)
+Teaching Assistant -- Operating Systems (Winter 2015)
   Assist. Prof. Michael McAllister
 
-Teaching Assistantship -- Principles of Programming Languages (Summer 2014)
+Teaching Assistant -- Principles of Programming Languages (Summer 2014)
   Prof. Philip T. Cox
 
-Teaching Assistantship -- Concepts in Computing AND Bioinformatics (2012 - 2014)
+Teaching Assistant -- Concepts in Computing AND Bioinformatics (2012 - 2014)
   Assoc. Prof. Christian Blouin (2012 - 2014)
 
 Research Assistant; Software Developer, Blouin Lab (2012 - 2014)
 Orchestrated work in different areas of bioinformatics. Helped construct software libraries for geometric morphometric analysis of 2D and 3D biological structures, for molecular dynamics, for protein homology modelling, and for the parsing of essential file formats. Performed a great deal of debugging and restructuring of existing code base.
 
-Teaching Assistantship -- Communication Skills: Oral/Written (2012 - 2013)
+Teaching Assistant -- Communication Skills: Oral/Written (2012 - 2013)
   Instr. James Fleming
 
 Learning Centre Staff, Faculty of Computer Science (2012 - 2013)
@@ -86,7 +85,7 @@ Skills
 ===================
 
 Technical Specialties:
-Software design and implementation, with(in) a team. Scientific writing. Advanced experience with Python/Java/C/LaTeX and regularly work with Objective-C, C# (.NET framework), C++, and Perl. Elementary to intermediate knowledge with Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R. Solid knowledge of database technologies: MySQL, SQLite, NoSQL. Solid knowledge of web technologies: HTML+CSS, XML, REST, JavaScript (jQuery, D3). Linux administration skills: bash, Apache, MySQL, VMware.
+Software design and implementation, with(in) a team. Scientific writing. Advanced experience with Python/Java/C/LaTeX and regularly work with Objective-C, C# (.NET framework), C++, and Perl. Elementary to intermediate knowledge with Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R. Solid knowledge of database technologies: MySQL, SQLite, NoSQL. Solid knowledge of web technologies: HTML+CSS, XML, REST, JSON, JavaScript (jQuery, D3).
 
 Methodologies:
 Have worked with different tools of machine learning including support vector machine (SVM) and random forests. Have also done a large deal of information extraction, data classification, data visualization, and data mining using conventional and classical tools.
@@ -100,7 +99,7 @@ Interests
 ===================
 
 Non-exhaustive and in alphabetical order:
-Art, cryptography, gaming, music, open source, philosophy, software engineering, typography (e.g. graphic design, ).
+Art, cryptography, gaming, music, open source, philosophy, software engineering, typography.
 
 
 
