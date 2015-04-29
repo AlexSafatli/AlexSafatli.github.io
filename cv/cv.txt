@@ -26,11 +26,13 @@ Dalhousie University; Halifax, Canada
 Master of Computer Science (2014 - 2015)
   - Education in Adv. Data Structures, Algorithms, Heuristics, and Natural Language Processing.
   - Written a thesis "Sampling Discrete Combinatorial Spaces in Phylogenetics" on combinatorial space visualization and analysis in bioinformatics.
+  - Published and currently maintain a Python software framework for combinatorial space analysis.
   - Supervised by Assoc. Prof. Christian Blouin (cblouin@cs.dal.ca).
 
 Bachelor of Computer Science with Distinction - GPA 3.8 - Dean's List (2008 - 2014)
   - Thorough understanding of computer science fundamentals.
   - Further focus on adv. concepts in mathematics (geometry, cryptography, linear algebra) alongside a strong understanding of chemistry.
+  - Completed individual and collaborative software projects in Java incl. a geo-location mobile game.
   - Featured experience working with clients through a Community Outreach program.
 
 ===================
@@ -40,19 +42,19 @@ Experience
 Dalhousie University; Halifax, Canada
 
 Teaching Assistant -- Operating Systems (Winter 2015)
-  Assist. Prof. Michael McAllister
+  Marked software assignments written in C. Assist. Prof. Michael McAllister
 
 Teaching Assistant -- Principles of Programming Languages (Summer 2014)
-  Prof. Philip T. Cox
+  Marked software assignments written in Scheme and Prolog. Prof. Philip T. Cox
 
 Teaching Assistant -- Concepts in Computing AND Bioinformatics (2012 - 2014)
   Assoc. Prof. Christian Blouin (2012 - 2014)
 
 Research Assistant; Software Developer, Blouin Lab (2012 - 2014)
-Orchestrated work in different areas of bioinformatics. Helped construct software libraries for geometric morphometric analysis of 2D and 3D biological structures, for molecular dynamics, for protein homology modelling, and for the parsing of essential file formats. Performed a great deal of debugging and restructuring of existing code base.
+Orchestrated work in different areas of bioinformatics. Helped construct Python libraries for geometric morphometric analysis of 2D and 3D biological structures, for molecular dynamics, for protein homology modelling, and for the parsing of essential file formats. Performed a great deal of debugging and restructuring of existing Python code base.
 
 Teaching Assistant -- Communication Skills: Oral/Written (2012 - 2013)
-  Instr. James Fleming
+  Marked and helped teach oral presentations and common business document writing. Instr. James Fleming
 
 Learning Centre Staff, Faculty of Computer Science (2012 - 2013)
 Worked as a tutor at set hours in a faculty help facility for any Computer Science or Informatics undergraduate-level course. Supervised by Prof. Nauzer Kalyaniwalla.
@@ -61,7 +63,7 @@ Research Assistant, Prof. Mary Anne White (Summer 2010)
 Worked as a summer research assistant in the Department of Chemistry for a group focused on physical chemistry of materials, and helped write a journal article for the Ashrae 2011 Annual Conference on Solar Panels and the use of Phase Change Materials (PCMs) to store energy. A prototype was helped built for this manner of application for a local facility.
 
 Research Assistant, Prof. Peter Wentzell (Summer 2009)
-Worked as a summer research assistant in the Department of Chemistry for a group focused on chemometrics and the analysis of chemical data, and helped write a suite of software that helped in the finding of genetic motifs in DNA sequences and to evaluate statistical plots of findings.
+Worked as a summer research assistant in the Department of Chemistry for a group focused on chemometrics and the analysis of chemical data, and helped write a suite of software in Matlab that helped in the finding of genetic motifs in DNA sequences and to evaluate statistical plots of findings.
 
 Please refer to my Linkedin profile for further details and any relevant recommendations.
 

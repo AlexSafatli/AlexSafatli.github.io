@@ -21,21 +21,23 @@ My *Curriculum Vitae* (CV) can be downloaded in the following formats.
 
     - Education in Adv. Data Structures, Algorithms, Heuristics, and Natural Language Processing.
     - Written a thesis *Sampling Discrete Combinatorial Spaces in Phylogenetics* on combinatorial space visualization and analysis in bioinformatics.
+    - Published and currently maintain [a Python software framework](http://github.com/AlexSafatli/Pylogeny) for combinatorial space analysis.
     - Supervised by Assoc. Prof. [Christian Blouin](mailto:cblouin@cs.dal.ca).
 
   - **Bachelor of Computer Science with Distinction (2008 - 2013) from [Dalhousie University](http://dal.ca)**
 
     - Thorough understanding of computer science fundamentals.
     - Further focus on adv. concepts in mathematics (geometry, cryptography, linear algebra) alongside a strong understanding of chemistry.
+    - Completed individual and collaborative software projects in Java incl. a geo-location mobile game.
     - Featured experience working with clients through a Community Outreach program.
 
 #### Skills
 
-  - **Technical Specialties**
+  - **Technical Knowledge**
 
     - Scientific and technical writing.
-    - Advanced Experience: Python, Java, C, LaTeX, Objective-C, C# (.NET framework), and Perl.
-    - Elementary to Intermediate Experience: C++, Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R.
+    - Advanced Experience: Python, Java, C, LaTeX, Objective-C, and Perl.
+    - Elementary to Intermediate Experience: C++, C# (.NET framework), Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R.
     - Database technologies: MySQL, SQLite, NoSQL.
     - Web technologies: HTML+CSS, XML, REST, JSON, JavaScript (jQuery, D3). 
 
