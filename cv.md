@@ -19,9 +19,7 @@ Recent graduate of a Master of Computer Science thesis program at Dalhousie Univ
 
 I aspire to learn, design, build, and explore complex computer models. I promise to approach given tasks with my best effort, to be open to criticism and to consider new ideas, and to be someone you can trust to adapt and perform to new situations and technologies.
 
-### Key Points
-
-#### Education
+### Education
 
   - **Master of Computer Science (2014 - 2015) from [Dalhousie University](http://dal.ca)** 
 
@@ -37,7 +35,7 @@ I aspire to learn, design, build, and explore complex computer models. I promise
     - Completed individual and collaborative software projects in Java incl. a geo-location mobile game.
     - Featured experience working with clients through a Community Outreach program.
 
-#### Skills
+### Skills
 
   - **Technical Knowledge**
 
