@@ -13,7 +13,13 @@ My *Curriculum Vitae* (CV) can be downloaded in the following formats.
   - **Plain Text** ([txt](/cv/cv.txt))
   - **Adobe PDF** ([pdf](/cv/cv.pdf))
 
-### Highlights
+### Summary
+
+Recent graduate of a Master of Computer Science thesis program at Dalhousie University. Software developer with a reputation for rigorous thinking and methodological consistency. Looking to start my career in the private sector.
+
+I aspire to learn, design, build, and explore complex computer models. I promise to approach given tasks with my best effort, to be open to criticism and to consider new ideas, and to be someone you can trust to adapt and perform to new situations and technologies.
+
+### Key Points
 
 #### Education
 

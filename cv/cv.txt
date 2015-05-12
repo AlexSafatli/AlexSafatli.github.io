@@ -14,8 +14,7 @@ Summary
 
 Recent graduate of a Master of Computer Science program at Dalhousie University. Software developer with a reputation for rigorous thinking and methodological consistency. I am looking to start my career in the private sector.
 
-I aspire to learn, design, build, and explore complex computer models. I also aspire to outgrow any duties given to me. I promise to provide maximum effort, to be open to criticism and new ideas, and to be someone you can trust to adapt
-and perform to new situations and technologies.
+I aspire to learn, design, build, and explore complex computer models. I promise to approach given tasks with my best effort, to be open to criticism and to consider new ideas, and to be someone you can trust to adapt and perform to new situations and technologies.
 
 ===================
 Education
@@ -34,6 +33,7 @@ Bachelor of Computer Science with Distinction - GPA 3.8 - Dean's List (2008 - 20
   - Further focus on adv. concepts in mathematics (geometry, cryptography, linear algebra) alongside a strong understanding of chemistry.
   - Completed individual and collaborative software projects in Java incl. a geo-location mobile game.
   - Featured experience working with clients through a Community Outreach program.
+  Awards: Undergraduate Student Research Award from the Natural Sci. & Engineering Research Council (NSERC) for summer internships in 2009, 2012, and 2013.
 
 ===================
 Experience
@@ -74,15 +74,6 @@ Publications
 Refer to my Linkedin profile.
 
 ===================
-Awards
-===================
-
-Natural Sci. Eng. Research Council (NSERC); Canada
-
-Undergraduate Student Research Award (2013, 2012, 2009)
-Procured funding for the working in a computer science laboratory during the summer term on the merit of grades and indication of interests. Awarded at three different occasions.
-
-===================
 Skills
 ===================
 
@@ -91,7 +82,6 @@ Software design and implementation, with(in) a team. Scientific writing. Advance
 
 Methodologies:
 Have worked with different tools of machine learning including support vector machine (SVM) and random forests. Have also done a large deal of information extraction, data classification, data visualization, and data mining using conventional and classical tools.
-
 
 Natural Languages:
 English (mother tongue), Arabic (limited working proficiency), and French (elementary proficiency).
