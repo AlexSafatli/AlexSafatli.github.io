@@ -39,8 +39,8 @@ I aspire to learn, design, build, and explore complex computer models. I promise
 
   - **Technical Knowledge**
 
-    - Scientific and technical writing.
-    - Advanced Experience: Python, Java, C, LaTeX, Objective-C, and Perl.
+    - Scientific and technical writing -- strong understanding of [LaTeX](http://www.latex-project.org) typesetting engine.
+    - Advanced Experience: Python, Java, C, Objective-C, and Perl.
     - Elementary to Intermediate Experience: C++, C# (.NET framework), Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R.
     - Database technologies: MySQL, SQLite, NoSQL.
     - Web technologies: HTML+CSS, XML, REST, JSON, JavaScript (jQuery, D3). 
