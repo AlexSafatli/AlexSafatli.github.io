@@ -29,8 +29,8 @@ Master of Computer Science (2014 - 2015)
   - Supervised by Assoc. Prof. Christian Blouin (cblouin@cs.dal.ca).
 
 Bachelor of Computer Science with Distinction - GPA 3.8 - Dean's List (2008 - 2014)
-  - Thorough understanding of computer science fundamentals.
-  - Further focus on adv. concepts in mathematics (geometry, cryptography, linear algebra) alongside a strong understanding of chemistry.
+  - Thorough breadth of computer science fundamentals without specialization.
+  - Further focus on mathematics (geometry, cryptography, linear algebra) alongside chemistry.
   - Completed individual and collaborative software projects in Java incl. a geo-location mobile game.
   - Featured experience working with clients through a Community Outreach program.
   Awards: Undergraduate Student Research Award from the Natural Sci. & Engineering Research Council (NSERC) for summer internships in 2009, 2012, and 2013.
@@ -69,7 +69,7 @@ Skills
 ===================
 
 Technical Specialties:
-  Software design and implementation, with(in) a team. Scientific writing. Advanced experience with Python/Java/C/LaTeX and regularly work with Objective-C, C# (.NET framework), and Perl. Elementary to intermediate knowledge with C++, Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R. Solid knowledge of database technologies: MySQL, SQLite, NoSQL. Solid knowledge of web technologies: HTML+CSS, XML, REST, JSON, JavaScript (jQuery, D3).
+  Software design and implementation, with(in) a team. Technical/scientific writing and use of the LaTeX typesetting engine. Adv. experience with Python, Java, C, Objective-C, and Perl. Elementary to intermediate knowledge with C++, C# (.NET framework), Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R. Knowledge of database technologies: MySQL, SQLite, NoSQL. Knowledge of web technologies: HTML+CSS, XML, REST, JSON, JavaScript (jQuery, D3).
 
 Methodologies:
   Have worked with different tools of machine learning including support vector machine (SVM) and random forests. Have also done a large deal of information extraction, data classification, data visualization, and data mining using conventional and classical tools.
