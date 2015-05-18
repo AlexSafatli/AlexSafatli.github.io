@@ -2,7 +2,7 @@
 layout: margined
 permalink: /
 title: Home
-subtitle: Software Engineer, MCS
+subtitle: Master of Computer Science Graduate
 image: shebang.png
 image_alt: Shebang Symbol
 ---
