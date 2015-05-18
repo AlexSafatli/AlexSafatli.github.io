@@ -13,6 +13,11 @@ My *Curriculum Vitae* (CV) can be downloaded in the following formats.
   - **Plain Text** ([txt](/cv/cv.txt))
   - **Adobe PDF** ([pdf](/cv/cv.pdf))
 
+A general content *Resume* can be similarly downloaded in the following formats.
+
+  - **LaTeX** ([tex](/resume/resume.tex))
+  - **Adobe PDF** ([pdf](/resume/resume.pdf))
+
 ### Summary
 
 Recent graduate of a Master of Computer Science thesis program at Dalhousie University. Software developer with a reputation for rigorous thinking and methodological consistency. Looking to start my career in the private sector.
