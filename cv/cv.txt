@@ -17,25 +17,6 @@ Recent graduate of a Master of Computer Science program at Dalhousie University.
 I aspire to learn, design, build, and explore complex computer models. I promise to approach given tasks with my best effort, to be open to criticism and to consider new ideas, and to be someone you can trust to adapt and perform to new situations and technologies.
 
 ===================
-Education
-===================
-
-Dalhousie University; Halifax, Canada 
-
-Master of Computer Science (2014 - 2015)
-  - Education in Adv. Data Structures, Algorithms, Heuristics, and Natural Language Processing.
-  - Written a thesis "Sampling Discrete Combinatorial Spaces in Phylogenetics" on combinatorial space visualization and analysis in bioinformatics.
-  - Published and currently maintain a Python software framework for combinatorial space analysis.
-  - Supervised by Assoc. Prof. Christian Blouin (cblouin@cs.dal.ca).
-
-Bachelor of Computer Science with Distinction - GPA 3.8 - Dean's List (2008 - 2014)
-  - Thorough breadth of computer science fundamentals without specialization.
-  - Further focus on mathematics (geometry, cryptography, linear algebra) alongside chemistry.
-  - Completed individual and collaborative software projects in Java incl. a geo-location mobile game.
-  - Featured experience working with clients through a Community Outreach program.
-  Awards: Undergraduate Student Research Award from the Natural Sci. & Engineering Research Council (NSERC) for summer internships in 2009, 2012, and 2013.
-
-===================
 Experience
 ===================
 
@@ -57,6 +38,25 @@ Research Assistant, Prof. Peter Wentzell (Summer 2009)
   Worked as a summer research assistant in the Department of Chemistry for a group focused on chemometrics and the analysis of chemical data, and wrote a suite of software in Matlab that helped in the finding of genetic motifs in DNA sequences and to evaluate statistical plots of findings.
 
 Please refer to my Linkedin profile for further details and any relevant recommendations.
+
+===================
+Education
+===================
+
+Dalhousie University; Halifax, Canada 
+
+Master of Computer Science (2014 - 2015)
+  - Education in Adv. Data Structures, Algorithms, Heuristics, and Natural Language Processing.
+  - Written a thesis "Sampling Discrete Combinatorial Spaces in Phylogenetics" on combinatorial space visualization and analysis in bioinformatics.
+  - Published and currently maintain a Python software framework for combinatorial space analysis.
+  - Supervised by Assoc. Prof. Christian Blouin (cblouin@cs.dal.ca).
+
+Bachelor of Computer Science with Distinction - GPA 3.8 - Dean's List (2008 - 2014)
+  - Thorough breadth of computer science fundamentals without specialization.
+  - Further focus on mathematics (geometry, cryptography, linear algebra) alongside chemistry.
+  - Completed individual and collaborative software projects in Java incl. a geo-location mobile game.
+  - Featured experience working with clients through a Community Outreach program.
+  Awards: Undergraduate Student Research Award from the Natural Sci. & Engineering Research Council (NSERC) for summer internships in 2009, 2012, and 2013.
 
 ===================
 Publications
