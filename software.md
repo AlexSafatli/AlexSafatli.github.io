@@ -18,14 +18,15 @@ Projects that came out of work in an area of **computational biology** or bioinf
 Small libraries, scripts, or utilities I have put together to help coding with specialized or general software projects.
 
   - [TwitchSharp](https://github.com/AlexSafatli/TwitchSharp): A C# API to the REST API for the gaming stream [Twitch.TV](http://twitch.tv) platform.
+  - [Subscript](https://github.com/AlexSafatli/Subscript): A multi-paradigm object-centric programming language for scripting and interfacing. Also an attempt to construct a toy language for learning the process of creating a compiler.
   - [App-Icon-Template](https://github.com/AlexSafatli/App-Icon-Template): A package to help create icons for XCode iOS/OS X applications in the open-source Inkscape application. A fork from another project and updated to work with newer iOS 8 standards.
 
 ### Hobby Projects
 
 These projects are small, very specialized projects, for some of my other interests, I have dabbled in and may or may or not have made major progress in.
 
-  - [HearthstoneDrafter](https://github.com/AlexSafatli/HearthstoneDrafter): Playing around in Python with the [Google App Engine](https://cloud.google.com/appengine/docs) framework and creating a small simulator for the Blizzard Entertainment game Hearthstone&copy;.
-  - [EclipseBoardGame](https://github.com/AlexSafatli/EclipseBoardGame): Made a battle simulator for the [Eclipse](http://boardgamegeek.com/boardgame/72125/eclipse) board game in Python.
+  - [HearthstoneDrafter](https://github.com/AlexSafatli/HearthstoneDrafter): Project built in Python and with the [Google App Engine](https://cloud.google.com/appengine/docs) framework. A small game mode simulator for the Blizzard Entertainment, Inc. game [Hearthstone](http://us.battle.net/hearthstone/en/) that allows the drafting of cards.
+  - [EclipseBoardGame](https://github.com/AlexSafatli/EclipseBoardGame): A battle simulator for the [Eclipse](http://boardgamegeek.com/boardgame/72125/eclipse) board game written in Python.
 
 ### Website
 
