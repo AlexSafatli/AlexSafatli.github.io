@@ -67,7 +67,7 @@ li {
 body {
         font-family: "Varela Round", sans-serif;
 	background-color: #B52A2A;
-	line-height: 24px;
+	line-height: 18px;
 }
 
 hr {
@@ -96,11 +96,11 @@ blockquote {
 	color: white;
 	margin: 10px;
 	float: left;
+	line-height: normal;
 }
 
 #navbar {
 	float: right;
-	font-family: "HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
 	font-weight:300; 
 	font-stretch:normal;
 }
@@ -132,7 +132,6 @@ blockquote {
 #content {
 	clear: both;
 	background-color: #FFF;
-	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	border: 7px solid black;
 	padding: 10px;
 	padding-top: 5px;
@@ -196,6 +195,7 @@ blockquote {
 #footer a {
 	color: white;
 	font-weight: bold;
+	border-bottom:0;
 }
 
 #footer a:hover {
@@ -210,10 +210,6 @@ blockquote {
 }
 
 /* Links & Specialized */
-
-img:a {
-	border-bottom:0;
-}
 
 a {
 	color: #5E5E5E;
