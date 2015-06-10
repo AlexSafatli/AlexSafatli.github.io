@@ -1,32 +1,4 @@
-/* Latin Modern (LaTeX default) Font Definitions */
-
-/*@font-face {
-	font-family: 'Latin Modern Roman';
-	font-weight: normal;
-	font-style: normal;
-	src: url('//cdn.rawgit.com/AndrewBelt/WiTeX/master/fonts/lmroman10-regular.woff') format('woff');
-}
-
-@font-face {
-	font-family: 'Latin Modern Roman';
-	font-weight: bold;
-	font-style: normal;
-	src: url('//cdn.rawgit.com/AndrewBelt/WiTeX/master/fonts/lmroman10-bold.woff') format('woff');
-}
-
-@font-face {
-	font-family: 'Latin Modern Roman';
-	font-weight: normal;
-	font-style: italic;
-	src: url('//cdn.rawgit.com/AndrewBelt/WiTeX/master/fonts/lmroman10-italic.woff') format('woff');
-}
-
-@font-face {
-	font-family: 'Latin Modern Roman';
-	font-weight: bold;
-	font-style: italic;
-	src: url('//cdn.rawgit.com/AndrewBelt/WiTeX/master/fonts/lmroman10-bolditalic.woff') format('woff');
-}*/
+/* URL Font Definitions */
 
 @font-face {
   font-family: "Varela Round";
@@ -136,6 +108,7 @@ blockquote {
 	padding: 10px;
 	padding-top: 5px;
 	margin: 10px;
+	line-height: 22px;
 }
 
 #accordion {
