@@ -11,11 +11,11 @@ image_alt: Shebang Symbol
 
 ### Description
 
-I am a recent MSC graduate from [Dalhousie University](http://dal.ca) and passionate about software design and architecture. I am currently living in [Halifax, Nova Scotia](https://www.google.ca/maps/place/Halifax,+NS/), Canada working as a software developer for a promising startup company called [watzan](http://watzan.com/).
+I am a recent MCS graduate from [Dalhousie University](http://dal.ca) that is passionate about software design and architecture. I am currently working in [Halifax, Nova Scotia](https://www.google.ca/maps/place/Halifax,+NS/), Canada as a software developer for a very promising startup company called [watzan](http://watzan.com/).
 
 ### Interests
 
-I have dabbled in many parts of the software development process. Most notably, I find myself possessing a talent for the construction of web software.
+I possess a talent for the construction of web software.
 
 With a fairly thorough background in theoretic computer science, the following also have a place near to my heart:
 
@@ -24,4 +24,4 @@ With a fairly thorough background in theoretic computer science, the following a
 
 Furthermore, operating systems, embedded systems, and language development are areas that I wish to pursue further.
 
-*[MSC]: Master of Computer Science
+*[MCS]: Master of Computer Science
