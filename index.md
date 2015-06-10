@@ -11,7 +11,7 @@ image_alt: Shebang Symbol
 
 ### Description
 
-I am a recent MSC (Master of Computer Science) graduate from [Dalhousie University](http://dal.ca) and passionate about software design and architecture. I am currently living in [Halifax, Nova Scotia](https://www.google.ca/maps/place/Halifax,+NS/), Canada working as a software developer for a promising startup company called [watzan](http://watzan.com/).
+I am a recent MSC graduate from [Dalhousie University](http://dal.ca) and passionate about software design and architecture. I am currently living in [Halifax, Nova Scotia](https://www.google.ca/maps/place/Halifax,+NS/), Canada working as a software developer for a promising startup company called [watzan](http://watzan.com/).
 
 ### Interests
 
@@ -23,3 +23,5 @@ With a fairly thorough background in theoretic computer science, the following a
   - Complex data structures.
 
 Furthermore, operating systems, embedded systems, and language development are areas that I wish to pursue further.
+
+*[MSC]: Master of Computer Science
