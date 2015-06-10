@@ -115,6 +115,7 @@ blockquote {
 	margin-left: 5px;
 	margin-right: 5px;
 	border-bottom: 0;
+	font-weight:bold;
 }
 
 #navbar a:hover, #navbar a.active {
@@ -207,6 +208,7 @@ a {
 	color: #5E5E5E;
 	text-decoration: none;
 	border-bottom:1px solid #999;
+	font-weight: 600;
 }
 
 a:hover {
