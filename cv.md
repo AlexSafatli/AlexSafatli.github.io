@@ -44,12 +44,18 @@ I aspire to learn, design, build, and explore complex computer models. I promise
 
   - **Technical Knowledge**
 
-    - Scientific and technical writing -- strong understanding of [LaTeX](http://www.latex-project.org) typesetting engine.
-    - Advanced Experience: Python, Java, C, Objective-C, and Perl.
+    - Advanced Experience: Python, Java, C, Objective-C, Ruby, Perl and JavaScript.
     - Elementary to Intermediate Experience: C++, C# (.NET framework), Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R.
     - Database technologies: MySQL, SQLite, NoSQL.
-    - Web technologies: HTML+CSS, XML, REST, JSON, JavaScript (jQuery, D3). 
+    - Web technologies: HTML+CSS, XML, REST, JSON, Select JS Frameworks (jQuery, D3), Ruby on Rails. 
+    - Scientific and technical writing -- strong understanding of [LaTeX](http://www.latex-project.org) typesetting engine.
 
   - **Methodologies**: Have worked with different tools of machine learning including support vector machine (SVM) and random forests. Have also done a large deal of information extraction, data classification, data visualization, and data mining using conventional and classical tools.
 
   - **Natural Languages**: English (mother tongue), Arabic (limited working proficiency), and French (elementary proficiency).
+
+*[HTML]: HyperText Markup Language
+*[CSS]: Cascading Style Sheet
+*[XML]: Extensible Markup Language
+*[REST]: Representational State Transfer
+*[JS]: JavaScript
