@@ -1,10 +1,8 @@
 ---
-layout: margined
+layout: default
 permalink: /
 title: Home
 subtitle: Software Developer
-image: shebang.png
-image_alt: Shebang Symbol
 ---
 
 > *Hi -- I'm Alex Safatli*. I've just started building web software as a full stack developer.

@@ -38,7 +38,7 @@ html {
 }
 
 li {
-  margin:0 0 10px 0;   
+  margin: 0 0 10px 0;   
 }
 
 body {
@@ -111,7 +111,8 @@ blockquote {
   padding: 10px;
   padding-top: 5px;
   margin: 10px;
-  line-height: 22px;
+  line-height: 1.5;
+  font-size: 18px;
 }
 
 #accordion {
@@ -174,7 +175,7 @@ blockquote {
   clear: both;
   text-align: center;
   color: white;
-  font-size: 0.75em;
+  font-size: 0.9em;
   padding-bottom: 20px;
 }
 
@@ -188,11 +189,9 @@ blockquote {
   color: #ddd;  
 }
 
-.side {
-  float: right;
-  margin-left: 10px;
-  margin-right: 10px;
-  padding: 20px;
+abbr {
+  border-bottom-style: dotted;
+  border-bottom-width: 1px;
 }
 
 /* Links & Specialized */
@@ -209,11 +208,6 @@ a:hover {
   border-bottom-color: black;
 }
 
-abbr {
-  border-bottom-style: dotted;
-  border-bottom-width: 1px;
-}
-
 a.niceLink {
   font-size: small;
   background-color: #B52A2A;
@@ -228,87 +222,11 @@ a.niceLink:hover {
   background-color: black;
 }
 
-.scriptType {
-  padding: 5px;
-  background: gray repeat-x;
-  color: white;
-  font-variant: small-caps;
-}
-
-.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
-  margin-bottom: -15px;
-}
-
-.salutation {
+.side {
   float: right;
-  margin: 20px;
-  padding: 0.4em 0.5em; 
-  font-family: "HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
-  font-weight:400; 
-  font-stretch:normal;
-}
-
-.album {
-  margin: 20px;
-  margin-left: 40px;
-  padding: 5px;
-  padding-bottom: 3px;
-  border: 4px solid black;
-  text-align: center;
-}
-
-.element {
-  width: 170px;
-  height: 170px;
-  margin: 5px;
-  float: left;
-  overflow: hidden;
-  position: relative;
-  background: #B52A2A;
-  color: white;
-  -webkit-border-top-right-radius: 1.2em;
-      -moz-border-radius-topright: 1.2em;
-          border-top-right-radius: 1.2em;
-}
-
-.element.wide {
-  width: 340px;
-}
-
-.element.tall {
-  height: 340px;
-}
-
-.element.wide.tall {
-  font-size:1.8em;
-}
-
-.element * {
-  position: absolute;
-  margin: 0;
-}
-
-.element .name {
-  left: 0.2em;
-  bottom: 2.0em;
-  font-size: 1.8em;
-  line-height: 1.0em;
-}
-
-.element .description {
-  left: 0.5em;
-  bottom: 0.5em;
-  color: hsla(0,0%,0%,.5);
-  font-size: 0.9em;
-  max-width: 70%;
-}
-
-.element .type {
-  font-size: 1em;
-  font-weight: bold;
-  color: hsla(0,0%,0%,.5);
-  right: 0.5em;
-  top: 0.5em;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 20px;
 }
 
 /* Table CSS Rules */
@@ -336,6 +254,13 @@ thead, tfoot {
 
 /* Image CSS Rules */
 
+img.rounded {
+  display: block;
+	max-width: 100%;
+	margin: 0 0 1em;
+	border-radius: 5px;
+}
+
 img.center {
   display: block;
   margin: auto;
@@ -350,110 +275,6 @@ img.side {
 
 img.schematic, img.mug {
   width: 320px;
-}
-
-/* Option CSS for Isotope */
-
-#layoutSelects {
-  width: 45%;
-  margin: 30px auto 60px;
-  font-size: 0.9em;
-  padding: 2px;
-}
-
-#layoutSelects span {
-  display: block;
-    padding: 0.4em 0.5em;
-  float: left;
-  font-weight: bold;
-}
-
-#layoutSelects ul {
-  margin: 0;
-  list-style: none;
-}
-
-#layoutSelects ul ul {
-  margin-left: 1.5em;
-}
-
-#layoutSelects li {
-  float: left;
-  margin-bottom: 0.2em;
-}
-
-#layoutSelects li a {
-  display: block;
-  padding: 0.4em 0.5em;
-  background-color: #DDD;
-  color: #222;
-  font-weight: bold;
-}
-
-#layoutSelects li a:hover {
-  background-color: #D63A3A;
-  color: white;
-}
-
-#layoutSelects li a:active {
-  background-color: #B52A2A;
-}
-
-#layoutSelects li a.selected {
-  background-color: #B52A2A;
-  text-shadow: none;
-  color: white;
-}
-
-/* Clickable Elements */
-
-a.elementLink {
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-}
-
-
-/* Isotope Filtering */
-
-.isotope-item {
-  z-index: 2;
-}
-
-.isotope-hidden.isotope-item {
-  pointer-events: none;
-  z-index: 1;
-}
-
-/* Isotope CSS3 transitions */
-
-.isotope,
-.isotope .isotope-item {
-  -webkit-transition-duration: 0.8s;
-     -moz-transition-duration: 0.8s;
-          transition-duration: 0.8s;
-}
-
-.isotope {
-  -webkit-transition-property: height, width;
-     -moz-transition-property: height, width;
-          transition-property: height, width;
-}
-
-.isotope .isotope-item {
-  -webkit-transition-property: -webkit-transform, opacity;
-     -moz-transition-property:    -moz-transform, opacity;
-          transition-property:         transform, opacity;
-}
-
-/* Disabling Isotope CSS3 transitions */
-
-.isotope.no-transition,
-.isotope.no-transition .isotope-item,
-.isotope .isotope-item.no-transition {
-  -webkit-transition-duration: 0s;
-     -moz-transition-duration: 0s;
-          transition-duration: 0s;
 }
 
 /* Clearfix */

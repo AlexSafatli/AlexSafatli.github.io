@@ -1,23 +1,11 @@
-{% include header.html %}
+{% include main.html %}
 <body id="top">
 
   <div id="wrap">
     
-    <div id="header">
-      
-      <h1>Alexander Safatli</h1>
-      <h2><em>{{ page.subtitle }}</em></h2>
-      
-    </div>
+    <div id="header">{% include header.html %}</div>
     
-    <div id="navbar">
-      
-      <ul>
-        <li><a href="index.html" class="active">Home</a></li>
-        <li><a href="media/cv.pdf">Curriculum Vitae</a></li>
-      </ul>
-      
-    </div>
+    <div id="navbar">{% include navbar.html %}</div>
     
     <div id="content">
       <div id="margin">{{ content }}</div>
