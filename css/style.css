@@ -10,274 +10,277 @@
 /* Headers and Font Weighting  */
 
 h1, h2 {
-	/*font-family: "Latin Modern Roman", serif; */
-	font-weight:100; 
-	font-stretch:normal;
-	margin: 2px 0;
+  font-weight:100;
+  font-stretch:normal;
+  margin: 2px 0;
 }
 
 h3, h4 {
-	font-weight:600; 
-	font-stretch:normal;
+  font-weight:600;
+  font-stretch:normal;
 }
 
 .light {
-	font-weight:400; 
-	font-stretch:normal;
+  font-weight:400;
+  font-stretch:normal;
 }
 
 /* Basic Layout Components */
 
 html, body {
-    height: 100%;
+  height: 100%;
+}
+
+html {
+  font-family: "Varela Round", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 18px;
 }
 
 li {
-	margin:0 0 10px 0;   
+  margin:0 0 10px 0;   
 }
 
 body {
-        font-family: "Varela Round", sans-serif;
-	background-color: #B52A2A;
-	line-height: 18px;
+  background-color: #B52A2A;
 }
 
 hr {
-	border: 0;
-	height: 1px;
-	color: black;
-	background: black;
+  border: 0;
+  height: 1px;
+  color: black;
+  background: black;
 }
 
 blockquote {
-	width:100%;
-	border-left: 4px solid #ddd;
-	color: #777;
-	padding: 0 15px;
+  width:100%;
+  border-left: 4px solid #ddd;
+  color: #777;
+  padding: 0 15px;
 }
 
 /* Custom Definitions */
 
 #wrap {
-	width: 950px;
-	margin: auto;
+  width: 950px;
+  margin: auto;
 }
 
 #header {
-	padding: 5px;
-	color: white;
-	margin: 10px;
-	float: left;
-	line-height: normal;
+  padding: 5px;
+  color: white;
+  margin: 10px;
+  float: left;
+  line-height: normal;
 }
 
 #navbar {
-	float: right;
-	font-weight:300; 
-	font-stretch:normal;
+  float: right;
+  font-weight:300; 
+  font-stretch:normal;
 }
 
 #navbar li {
-	display: inline;
+  display: inline;
 }
 
 #navbar ul {
-	list-style-type: none;
-	padding: 0;
+  list-style-type: none;
+  padding: 0;
 }
 
 #navbar a {
-	text-align: center;
-	text-decoration: none;
-	padding: 10px 3px;
-	color: white;
-	margin-left: 5px;
-	margin-right: 5px;
-	border-bottom: 0;
-	font-weight:bold;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px 3px;
+  color: white;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-bottom: 0;
+  font-weight:bold;
 }
 
 #navbar a:hover, #navbar a.active {
-	border-top: 6px solid white;
+  border-top: 6px solid white;
 }
 
 #content {
-	clear: both;
-	background-color: #FFF;
-	border: 7px solid black;
-	padding: 10px;
-	padding-top: 5px;
-	margin: 10px;
-	line-height: 22px;
+  clear: both;
+  background-color: #FFF;
+  border: 7px solid black;
+  padding: 10px;
+  padding-top: 5px;
+  margin: 10px;
+  line-height: 22px;
 }
 
 #accordion {
-	margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 #page {
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-top: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
 }
 
 #margin {
-	width: 400px;
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-top: 5px;
-	float: left;
+  width: 400px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  float: left;
 }
 
 .cozy-text {
-	padding-left: 20px;
-	padding-right: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .top {
-	padding-top:  5px;
+  padding-top:  5px;
 }
 
 #social a {
-	padding-left: 2px;
-	padding-right: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
 }
 
 #social img {
-	width: 40px;
-	height: 40px;
+  width: 40px;
+  height: 40px;
 }
 
 #main {
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-top: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
 }
 
 
 #image_container, #container {
-	width: 85%;
-	margin: auto;
-  	clear: both;
+  width: 85%;
+  margin: auto;
+    clear: both;
 }
 
 #container {
-	width: 100%;
+  width: 100%;
 }
 
 #footer {
-	margin: 25px 0 10px;
-	min-height: 60px;
-	clear: both;
-	text-align: center;
-	color: white;
-	font-size: 0.75em;
-	padding-bottom: 20px;
+  margin: 25px 0 10px;
+  min-height: 60px;
+  clear: both;
+  text-align: center;
+  color: white;
+  font-size: 0.75em;
+  padding-bottom: 20px;
 }
 
 #footer a {
-	color: white;
-	font-weight: bold;
-	border-bottom:0;
+  color: white;
+  font-weight: bold;
+  border-bottom:0;
 }
 
 #footer a:hover {
-	color: #ddd;	
+  color: #ddd;  
 }
 
 .side {
-	float: right;
-	margin-left: 10px;
-	margin-right: 10px;
-	padding: 20px;
+  float: right;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 20px;
 }
 
 /* Links & Specialized */
 
 a {
-	color: #5E5E5E;
-	text-decoration: none;
-	border-bottom:1px solid #999;
-	font-weight: 500;
+  color: #5E5E5E;
+  text-decoration: none;
+  border-bottom:1px solid #999;
+  font-weight: 500;
 }
 
 a:hover {
-	color: black;
-	border-bottom-color: black;
+  color: black;
+  border-bottom-color: black;
 }
 
 abbr {
-	border-bottom-style: dotted;
-	border-bottom-width: 1px;
+  border-bottom-style: dotted;
+  border-bottom-width: 1px;
 }
 
 a.niceLink {
-	font-size: small;
-	background-color: #B52A2A;
-	color: white;
-	float: right;
-	margin: 20px;
-	padding: 0.4em 0.5em;
-	font-weight: bold;
+  font-size: small;
+  background-color: #B52A2A;
+  color: white;
+  float: right;
+  margin: 20px;
+  padding: 0.4em 0.5em;
+  font-weight: bold;
 }
 
 a.niceLink:hover {
-	background-color: black;
+  background-color: black;
 }
 
 .scriptType {
-	padding: 5px;
-	background: gray repeat-x;
-	color: white;
-	font-variant: small-caps;
+  padding: 5px;
+  background: gray repeat-x;
+  color: white;
+  font-variant: small-caps;
 }
 
 .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
-	margin-bottom: -15px;
+  margin-bottom: -15px;
 }
 
 .salutation {
-	float: right;
-	margin: 20px;
-	padding: 0.4em 0.5em;	
-	font-family: "HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
-	font-weight:400; 
-	font-stretch:normal;
+  float: right;
+  margin: 20px;
+  padding: 0.4em 0.5em; 
+  font-family: "HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+  font-weight:400; 
+  font-stretch:normal;
 }
 
 .album {
-	margin: 20px;
-	margin-left: 40px;
-	padding: 5px;
-	padding-bottom: 3px;
-	border: 4px solid black;
-	text-align: center;
+  margin: 20px;
+  margin-left: 40px;
+  padding: 5px;
+  padding-bottom: 3px;
+  border: 4px solid black;
+  text-align: center;
 }
 
 .element {
-	width: 170px;
-	height: 170px;
-	margin: 5px;
-	float: left;
-	overflow: hidden;
-	position: relative;
-	background: #B52A2A;
-	color: white;
-	-webkit-border-top-right-radius: 1.2em;
-	    -moz-border-radius-topright: 1.2em;
-	        border-top-right-radius: 1.2em;
+  width: 170px;
+  height: 170px;
+  margin: 5px;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  background: #B52A2A;
+  color: white;
+  -webkit-border-top-right-radius: 1.2em;
+      -moz-border-radius-topright: 1.2em;
+          border-top-right-radius: 1.2em;
 }
 
 .element.wide {
-	width: 340px;
+  width: 340px;
 }
 
 .element.tall {
-	height: 340px;
+  height: 340px;
 }
 
 .element.wide.tall {
-	font-size:1.8em;
+  font-size:1.8em;
 }
 
 .element * {
@@ -293,11 +296,11 @@ a.niceLink:hover {
 }
 
 .element .description {
-	left: 0.5em;
-	bottom: 0.5em;
-	color: hsla(0,0%,0%,.5);
-	font-size: 0.9em;
-	max-width: 70%;
+  left: 0.5em;
+  bottom: 0.5em;
+  color: hsla(0,0%,0%,.5);
+  font-size: 0.9em;
+  max-width: 70%;
 }
 
 .element .type {
@@ -311,58 +314,58 @@ a.niceLink:hover {
 /* Table CSS Rules */
 
 table {
-	border: 0;
-	border-collapse: collapse;
-	width: 700px;
-	margin: auto;
-	text-align: center;
+  border: 0;
+  border-collapse: collapse;
+  width: 700px;
+  margin: auto;
+  text-align: center;
 }
 
 table tr td {
-	padding: 10px;
-	border: 0;
-	min-width: 120px;
+  padding: 10px;
+  border: 0;
+  min-width: 120px;
 }
 
 thead, tfoot {
-	background-color: #DEDEDE;
-	color: #333;
-	font-weight: bold;
+  background-color: #DEDEDE;
+  color: #333;
+  font-weight: bold;
 }
 
 
 /* Image CSS Rules */
 
 img.center {
-	display: block;
-	margin: auto;
+  display: block;
+  margin: auto;
 }
 
 img.side {
-	float: right;
-	z-index: 1;
-	background-color: white;
-	padding: 20px;
+  float: right;
+  z-index: 1;
+  background-color: white;
+  padding: 20px;
 }
 
 img.schematic, img.mug {
-	width: 320px;
+  width: 320px;
 }
 
 /* Option CSS for Isotope */
 
 #layoutSelects {
-	width: 45%;
-	margin: 30px auto 60px;
-	font-size: 0.9em;
-	padding: 2px;
+  width: 45%;
+  margin: 30px auto 60px;
+  font-size: 0.9em;
+  padding: 2px;
 }
 
 #layoutSelects span {
-	display: block;
-  	padding: 0.4em 0.5em;
-	float: left;
-	font-weight: bold;
+  display: block;
+    padding: 0.4em 0.5em;
+  float: left;
+  font-weight: bold;
 }
 
 #layoutSelects ul {
@@ -405,9 +408,9 @@ img.schematic, img.mug {
 /* Clickable Elements */
 
 a.elementLink {
-	width: 100%;
-	height: 100%;
-	z-index: 1;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
 }
 
 
@@ -456,5 +459,5 @@ a.elementLink {
 /* Clearfix */
 
 .clearfix {
-	clear: both;
+  clear: both;
 }
