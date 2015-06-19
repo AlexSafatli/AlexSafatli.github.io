@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /cv/
-title: Curriculum Vitae
-subtitle: Curriculum Vitae
+permalink: /expertise/
+title: Expertise
+subtitle: Expertise
 ---
 
 ### Download
