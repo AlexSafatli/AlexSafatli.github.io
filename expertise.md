@@ -50,7 +50,7 @@ I aspire to learn, design, build, and explore complex computer models. I promise
     - Web technologies: HTML+CSS, XML, REST, JSON, Select JS Frameworks (jQuery, D3), Ruby on Rails. 
     - Scientific and technical writing -- strong understanding of [LaTeX](http://www.latex-project.org) typesetting engine.
 
-  - **Methodologies**: Have worked with different tools of machine learning including support vector machine (SVM) and random forests. Have also done a large deal of information extraction, data classification, data visualization, and data mining using conventional and classical tools.
+  - **Scientific Methodologies**: Have worked with different tools of machine learning including support vector machine (SVM) and random forests. Have also done a large deal of information extraction, data classification, data visualization, and data mining using conventional and classical tools.
 
   - **Natural Languages**: English (mother tongue), Arabic (limited working proficiency), and French (elementary proficiency).
 
