@@ -5,7 +5,7 @@ title: Home
 subtitle: Software Developer
 ---
 
-> *Hi -- I'm Alex Safatli*. I've just started building web software as a full stack developer.
+> *Hi -- I'm Alex Safatli*. I've just started building software as a full stack developer.
 
 ### Description
 
@@ -13,7 +13,7 @@ I am a recent MCS graduate from [Dalhousie University](http://dal.ca) that is pa
 
 ### Interests
 
-I possess a talent for the construction of web software.
+I apparently possess a talent for the construction of web software and system modelling.
 
 With a fairly thorough background in theoretic computer science, the following also have a place near to my heart:
 
