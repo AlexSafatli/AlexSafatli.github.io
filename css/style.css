@@ -223,9 +223,6 @@ a.niceLink:hover {
 
 .side {
   float: right;
-  margin-left: 10px;
-  margin-right: 10px;
-  padding: 20px;
 }
 
 /* Table CSS Rules */
@@ -257,19 +254,17 @@ img.rounded {
   display: block;
 	max-width: 100%;
 	margin: 0 0 1em;
+  border: 3px solid black;
 	border-radius: 5px;
+}
+
+img.with_margin {
+  margin: 10px;
 }
 
 img.center {
   display: block;
   margin: auto;
-}
-
-img.side {
-  float: right;
-  z-index: 1;
-  background-color: white;
-  padding: 20px;
 }
 
 img.schematic, img.mug {

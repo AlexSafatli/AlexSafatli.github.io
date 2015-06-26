@@ -8,7 +8,7 @@
     <div id="navbar">{% include navbar.html %}</div>
     
     <div id="content">
-      {% if page.image %}<img src="/media/{{ page.image }}" {% if page.image_width %}width="{{ page.image_width }}"{% endif %} {% if page.image_alt %}alt="{{ page.image_alt }}"{% endif %} class="center" />{% endif %}
+      {% if page.image %}<img src="/media/{{ page.image }}" {% if page.image_width %}width="{{ page.image_width }}"{% endif %} {% if page.image_alt %}alt="{{ page.image_alt }}"{% endif %} class="{{ page.image_class }}" {% if page.image_align %}align="{{ page.image_align }}"{% endif %}/>{% endif %}
       <div id="page">{{ content }}</div>
       <div class="clearfix"></div>  
     </div>

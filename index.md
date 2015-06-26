@@ -3,6 +3,10 @@ layout: default
 permalink: /
 title: Home
 subtitle: Software Developer
+image: profile.jpg
+image_alt: Alex Safatli
+image_class: rounded with_margin side
+image_width: 225px
 ---
 
 > *Hi -- I'm Alex Safatli*. I've just started building software as a full stack developer.

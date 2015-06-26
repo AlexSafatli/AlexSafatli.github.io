@@ -9,7 +9,7 @@
     
     <div id="content">
       <div id="margin">{{ content }}</div>
-      {% if page.image %}<img src="/media/{{ page.image }}" alt="{{ page.image_alt }}" class="side" />{% endif %}
+      {% if page.image %}<img src="/media/{{ page.image }}" alt="{{ page.image_alt }}" class="side {{ page.image_class }}" />{% endif %}
       <div class="clearfix"></div>  
     </div>
     
