@@ -1,8 +1,11 @@
 - title: "Home"
+  icon: "home"
   href: "/"
 
 - title: "Software"
+  icon: "code"
   href: "/software/"
 
 - title: "Expertise"
+  icon: "briefcase"
   href: "/expertise/"
