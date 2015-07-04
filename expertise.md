@@ -20,9 +20,9 @@ A general content *Resume* can be similarly downloaded in the following formats.
 
 ### Summary
 
-Recent graduate of a Master of Computer Science thesis program at Dalhousie University. Software developer with a reputation for rigorous thinking and methodological consistency. Looking to start my career in the private sector.
+Recent graduate of a Master of Computer Science thesis program at Dalhousie University. Software developer with a reputation for rigorous thinking and methodological consistency.
 
-I aspire to learn, design, build, and explore complex computer models. I promise to approach given tasks with my best effort, to be open to criticism and to consider new ideas, and to be someone you can trust to adapt and perform to new situations and technologies.
+I aspire to learn, design, build, and explore complex computer models. I am open to criticism, always willing to learn, and am someone that can be trusted to adapt and perform to new situations and technologies.
 
 ### Education
 
@@ -44,8 +44,8 @@ I aspire to learn, design, build, and explore complex computer models. I promise
 
   - **Technical Knowledge**
 
-    - Advanced Experience: Python, Java, C, Objective-C, Ruby, Perl and JavaScript.
-    - Elementary to Intermediate Experience: C++, C# (.NET framework), Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R.
+    - *Advanced Experience*: Python, Java, C, Objective-C, Ruby, Perl and JavaScript.
+    - *Elementary to Intermediate Experience*: C++, C# (.NET framework), Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R.
     - Database technologies: MySQL, SQLite, NoSQL.
     - Web technologies: HTML+CSS, XML, REST, JSON, Select JS Frameworks (jQuery, D3), Ruby on Rails. 
     - Scientific and technical writing -- strong understanding of [LaTeX](http://www.latex-project.org) typesetting engine.
