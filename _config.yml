@@ -1,0 +1,25 @@
+name: Alexander Safatli
+description: Software Engineer
+paginate: 20
+baseurl: /
+author: Alexander Safatli
+permalink: /:year/:title/
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post

@@ -1,21 +1,15 @@
 {% include main.html %}
 <body id="top">
 
-  <div id="wrap">
-    
-    <div id="header">{% include header.html %}</div>
-    
-    <div id="navbar">{% include navbar.html %}</div>
-    
-    <div id="content">
-      {% if page.image %}<img src="/media/{{ page.image }}" {% if page.image_width %}width="{{ page.image_width }}"{% endif %} {% if page.image_alt %}alt="{{ page.image_alt }}"{% endif %} class="{{ page.image_class }}" {% if page.image_align %}align="{{ page.image_align }}"{% endif %}/>{% endif %}
-      <div id="page">{{ content }}</div>
-      <div class="clearfix"></div>  
-    </div>
-    
-    <div id="footer">{% include footer.html %}</div>
+  <nav class="main-nav" id="navbar">{% include logo.html %}{% include navbar.html %}</nav>
+  {% if page.profile %}{% include me.html %}{% endif %}
 
-  </div>
+  <section id="wrapper" class="{% if page.profile %}home{% endif %}">
+
+    <section id="content">{{ content }}</section>
+    <footer id="footer">{% include footer.html %}</footer>
+
+  </section>
 
 </body>
 </html>

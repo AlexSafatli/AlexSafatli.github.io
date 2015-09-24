@@ -1,30 +1,28 @@
 ---
-layout: default
 permalink: /expertise/
 title: Expertise
-subtitle: Expertise
 ---
 
-### Download
+## Download
 
 My *Curriculum Vitae* (CV) can be downloaded in the following formats.
 
-  - **LaTeX** ([tex](/cv/cv.tex))
-  - **Plain Text** ([txt](/cv/cv.txt))
-  - **Adobe PDF** ([pdf](/cv/cv.pdf))
+  - **LaTeX** ([tex](/assets/cv/cv.tex))
+  - **Plain Text** ([txt](/assets/cv/cv.txt))
+  - **Adobe PDF** ([pdf](/assets/cv/cv.pdf))
 
 A general content *Resume* can be similarly downloaded in the following formats.
 
-  - **LaTeX** ([tex](/resume/resume.tex))
-  - **Adobe PDF** ([pdf](/resume/resume.pdf))
+  - **LaTeX** ([tex](/assets/resume/resume.tex))
+  - **Adobe PDF** ([pdf](/assets/resume/resume.pdf))
 
-### Summary
+## Summary
 
 Recent graduate of a Master of Computer Science thesis program at Dalhousie University. Software developer with a reputation for rigorous thinking and methodological consistency.
 
 I aspire to learn, design, build, and explore complex computer models. I am open to criticism, always willing to learn, and am someone that can be trusted to adapt and perform to new situations and technologies.
 
-### Education
+## Education
 
   - **Master of Computer Science (2014 - 2015) from [Dalhousie University](http://dal.ca)** 
 
@@ -40,7 +38,7 @@ I aspire to learn, design, build, and explore complex computer models. I am open
     - Completed individual and collaborative software projects in Java incl. a geo-location mobile game.
     - Featured experience working with clients through a Community Outreach program.
 
-### Skills
+## Skills
 
   - **Technical Knowledge**
 
