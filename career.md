@@ -41,13 +41,13 @@ Aspirations include learning about, designing, and building complex computer mod
 ## Skills
 
   - **Programming Languages**
-    - *Advanced Experience* Java, Python, C, Ruby, Perl and JavaScript.
-    - *Elementary to Intermediate Experience* C++, C# (.NET framework), Objective-C, Swift, Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R.
+    - *Advanced Experience*. Java, Python, C, Ruby, Perl and JavaScript.
+    - *Elementary to Intermediate Experience*. C++, C# (.NET framework), Objective-C, Swift, Go, Scala, Lua, Prolog, Haskell, Scheme, Matlab, and R.
 
   - **Technical Skills**
-    - *Database Technologies* MySQL, SQLite, NoSQL.
-    - *Web Technologies*: HTML+CSS, XML, REST APIs, Select JS Frameworks (jQuery, D3), Ruby on Rails. 
-    - *Technical Writing* Strong understanding of [LaTeX](http://www.latex-project.org) typesetting engine and experience in *Technical Editing*.
+    - *Database Technologies*. MySQL, SQLite, NoSQL.
+    - *Web Technologies*. HTML+CSS, XML, REST APIs, Select JS Frameworks (jQuery, D3), Ruby on Rails. 
+    - *Technical Writing*. Strong understanding of [LaTeX](http://www.latex-project.org) typesetting engine and experience in *Technical Editing*.
 
   - **Scientific Methodologies**: Have worked with different tools of machine learning including SVM and random forests. Have also done a large deal of *data mining* using conventional and classical tools.
 
