@@ -2,10 +2,10 @@
   icon: "home"
   href: "/"
 
-- title: "Software"
+- title: "Projects"
   icon: "code"
-  href: "/software/"
+  href: "/projects/"
 
-- title: "Expertise"
+- title: "Career"
   icon: "briefcase"
-  href: "/expertise/"
+  href: "/career/"
