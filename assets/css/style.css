@@ -100,9 +100,9 @@ a,
 p a { color: #B52A2A; }
 
 #content a {
-  color: #5E5E5E;
+  color: #888;
   text-decoration: none;
-  border-bottom:1px solid #999;
+  border-bottom:1px solid #bbb;
   font-weight: 500;
 }
 
@@ -113,7 +113,7 @@ p a { color: #B52A2A; }
 
 #content {
   line-height: 1.5;
-  font-size: 18px;
+  font-size: 17px;
 }
 
 abbr {
@@ -162,11 +162,11 @@ em, i { font-style: italic; }
 
 .description {
 	float: right;
-	color: #aaa;
+	color: #bbb;
 }
 
 .logo {
-  color: #BBB;
+  color: #bbb;
 }
 
 .post header {
@@ -175,16 +175,15 @@ em, i { font-style: italic; }
 
 .post h1 {
 	margin-bottom: 20px;
-	color: #222;
+	color: #888;
 	font: 300 32px/1.4em "Varela Round", Helvetica, Arial, sans-serif;
 }
 
 .post h2 {
 	margin-bottom: 40px;
   font: 300 24px/1.5 "Varela Round", Helvetica, Arial, sans-serif;
-  color: #111;
+  color: #888;
 }
-
 
 .post h2.headline {
 	font: normal 13px/1.5em "Varela Round", Helvetica, Arial, sans-serif;
@@ -198,35 +197,21 @@ em, i { font-style: italic; }
 
 #post-list h2 {
 	font: normal 17px/1.5em "Varela Round", Helvetica, Arial, sans-serif;
-	color: #aaa;
+	color: #888;
 	max-width: 400px;
 	margin-top: 2px;
 }
 
-h1 {
-  font-size: 30px;
-  letter-spacing: -1px;
-  color: #222;
-  font-weight: bold;
-}
-
-h2 { color: #bbb; font-size: 21px; }
-
-h3, h4, h5 { color:#333; }
-
-h3 { font-size:20px; font-weight: 400; }
-h4 { font-size:19px; font-weight:bold; }
-h5 { font-size:18px; font-weight: bold; }
-
-h6 {
-	font-size: 13px;
-	font-weight: bold;
-	color: #666;
-	margin-bottom: 6px;
-}
+h1, h2, h3, h4, h5, h6 { color: #222; font-weight: bold; }
+h1 { font-size: 2em; letter-spacing: -1px; }
+h2 { font-size: 1.35em; font-weight: 400; }
+h3 { font-size: 1.17em; font-weight: 400; }
+h4 { font-size: 1.12em; }
+h5 { font-size: 0.83em; }
+h6 { font-size: 0.75em; margin-bottom: 6px; }
 
 p.small {
-	color: #bbb;
+	color: #333;
 	font-size: 14px;
 	line-height: 1.5;
 	display: block;
@@ -234,8 +219,8 @@ p.small {
 
 blockquote {
 	padding-left: 15px;
-	border-left: 3px solid #eee;
-  color: #bbb;
+	border-left: 3px solid #bbb;
+  color: #888;
 }
 
 hr {
@@ -246,24 +231,21 @@ hr {
 	background: #eee;
 }
 
-span.code { font-family:Menlo, Monaco, Courier; background-color:#EEE; font-size:14px; }
+span.code, pre { font-family: Menlo, Monaco, 'Source Code Pro', Courier, monospace; }
+
+span.code { background-color: #eee; font-size: 14px; }
 
 pre	{
-	font-family:Menlo, Monaco, Courier;
 	white-space:pre-wrap;
-	/*border: 1px solid #ddd;*/
 	padding:20px;
-	background-color:#fdfdfd;
-	/*font-size:14px;*/
+	background-color: #fdfdfd;
 	overflow:auto;
 	border-radius: 3px;
 	background: #272b2d;
-  font-family: 'Source Code Pro',Menlo,monospace;
   font-size: 13px;
   line-height: 1.5em;
   font-weight: 500;
-	color: #d0d4d7;
-
+	color: #888;
 }
 
 table {
@@ -348,16 +330,12 @@ img {
 .profile h1 {
   font-weight: 400;
   letter-spacing: 0px;
-  font-size: 30px;
-  color: #222;
 }
 
 .profile h2 {
-  font-size: 20px;
   font-weight: 300;
-  color: #aaa;
+  color: #bbb;
   margin-top: 10px;
-  font-family: "Varela Round", Helvetica, Arial, sans-serif;
   font-style: normal;
 }
 
@@ -390,7 +368,7 @@ img {
 	position: relative;
 	top: 1px;
 	font: 300 17px/1.8 "Helvetica Neue",helvetica,Arial,sans-serif;
-	color: #bbb;
+	color: #888;
 }
 
 #post-list-footer {
@@ -553,7 +531,7 @@ h2.month {
 	position: relative;
 	top: 1px;
 	font: 300 17px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
-	color: #bbb;
+	color: #888;
 }
 
 #archive-list li a:hover,#archive-list li:hover .dates {

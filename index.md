@@ -8,9 +8,9 @@ title: Home
 
 ## Description
 
-I am a (starting) **software engineer** that is passionate about design and architecture. I have recently graduated from a Master of Computer Science program at [Dalhousie University](http://dal.ca).
+I am a new **software engineer** that is passionate for design and architecture. I graduated from a Master of Computer Science program at [Dalhousie University](http://dal.ca) in Fall 2015.
 
-I am currently working in [Halifax, Nova Scotia](https://www.google.ca/maps/place/Halifax,+NS/), Canada as a software developer for the promising startup company [watzan, LLC](http://watzan.com/).
+I currently work at a promising startup company in [Halifax, Nova Scotia](https://www.google.ca/maps/place/Halifax,+NS/) that is called [watzan, LLC](http://watzan.com/).
 
 ## Interests
 
