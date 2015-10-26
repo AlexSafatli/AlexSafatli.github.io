@@ -45,13 +45,6 @@ but will very likely be revisited in the future.
   written to explore concepts of operating systems further than I had been 
   exposed to in my university education.
 
-## Other Work
-
-Some of my code work is too small (in scope or in complexity) to list here. 
-Others may be too unfinished. Regardless, 
-[my GitHub profile](http://github.com/AlexSafatli/) has a comprehensive list of
-code that I open sourced and that I am working on or have completed in the past.
-
 *[API]: Application Program Interface
 *[CL]: Command Line
 *[GURPS]: Generic Universal Roleplaying System
