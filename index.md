@@ -13,10 +13,6 @@ I am a new **software engineer** that has a passion for design and system
 architecture. I have recently graduated from a Master of Computer Science 
 program at [Dalhousie University](http://dal.ca) in Fall 2015.
 
-I currently work at a promising startup company in 
-[Halifax, Nova Scotia](https://google.com/maps/place/Halifax,+NS/) that is 
-called [watzan, LLC](http://watzan.com/).
-
 ## Interests
 
 I enjoy learning new programming languages, particularly ones that exemplify 
