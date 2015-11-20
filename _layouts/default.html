@@ -1,7 +1,7 @@
 {% include main.html %}
 <body id="top">
 
-  <nav class="main-nav" id="navbar">{% include logo.html %}{% include navbar.html %}</nav>
+  {% include nav.html %}
   {% if page.profile %}{% include me.html %}{% endif %}
 
   <section id="wrapper" class="{% if page.profile %}home{% endif %}">

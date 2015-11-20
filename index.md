@@ -4,9 +4,6 @@ profile: true
 title: Home
 ---
 
-> *Hi -- I'm Alex Safatli*. I've just started building software as a full stack 
-developer.
-
 ## Description
 
 I am a new **software engineer** that has a passion for design and system 

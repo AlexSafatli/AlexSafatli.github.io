@@ -6,6 +6,6 @@
   icon: "code"
   href: "/projects/"
 
-- title: "Career"
-  icon: "briefcase"
-  href: "/career/"
+- title: "About"
+  icon: "question"
+  href: "/about/"
