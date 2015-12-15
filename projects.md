@@ -32,6 +32,12 @@ In my free time, I work on some other things. The projects that have seen the
 [Other projects](http://github.com/AlexSafatli/) are not nearly as fortunate 
 but will very likely be revisited in the future.
 
+### Low-Level
+
+  - [os](https://github.com/AlexSafatli/os): An x86 32-bit operating system 
+  written to explore concepts of operating systems further than I had been 
+  exposed to in my university education.
+
 ### Roleplaying
 
   - [MeatGrinder](https://github.com/AlexSafatli/MeatGrinder): A web-based tool 
@@ -40,11 +46,12 @@ but will very likely be revisited in the future.
   [Google App Engine](https://cloud.google.com/appengine/docs) and coded in
   Python.
 
-### Low-Level
+### Shopping
 
-  - [os](https://github.com/AlexSafatli/os): An x86 32-bit operating system 
-  written to explore concepts of operating systems further than I had been 
-  exposed to in my university education.
+  - [AutoScraper](http://auto-scraper.heroku.com): A web-based tool that allows 
+  local car buyers to find used cars aggregated and collected from multiple 
+  local dealerships. Written in Ruby with the *Ruby on Rails* framework as part 
+  of a weekend hackathon and extended slightly from there.
 
 *[API]: Application Program Interface
 *[CL]: Command Line
