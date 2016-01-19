@@ -3,28 +3,10 @@ permalink: /about/
 title: About
 ---
 
-## Download
-
-### Resume
-
-I have a general content *Resume* that I use when seeking employment that is in 
-**Adobe PDF** ([pdf](/assets/docs/resume.pdf)).
-
-### CV
-
-My *Curriculum Vitae* (CV) can be downloaded in the following formats.
-
-  - **LaTeX** ([tex](/assets/docs/cv.tex))
-  - **Plain Text** ([txt](/assets/docs/cv.txt))
-  - **Adobe PDF** ([pdf](/assets/docs/cv.pdf))
-
----
-
 ## Summary
 
-Recent graduate of a Master of Computer Science thesis program at Dalhousie 
-University. A constantly learning **software engineer** with a reputation for 
-rigorous thinking, methodological consistency, and a ravenous appetite to learn.
+A constantly learning **software engineer** with a reputation for 
+rigorous thinking, methodical consistency, and a ravenous appetite to learn.
 
 ## Technical Skills
 
@@ -39,6 +21,25 @@ rigorous thinking, methodological consistency, and a ravenous appetite to learn.
     - *Technical Writing*. Strong understanding of 
     [LaTeX](http://www.latex-project.org) typesetting engine and experience 
     in Technical Editing.
+
+---
+
+## Employment
+
+I am currently not seeking employment.
+
+### Resume
+
+I have a general content *Resume* that I use when seeking employment that is in 
+**Adobe PDF** ([pdf](/assets/docs/resume.pdf)).
+
+### CV
+
+My *Curriculum Vitae* (CV) can be downloaded in the following formats.
+
+  - **LaTeX** ([tex](/assets/docs/cv.tex))
+  - **Plain Text** ([txt](/assets/docs/cv.txt))
+  - **Adobe PDF** ([pdf](/assets/docs/cv.pdf))
 
 *[HTML]: HyperText Markup Language
 *[CSS]: Cascading Style Sheet

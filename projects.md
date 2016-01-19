@@ -3,15 +3,6 @@ permalink: /projects/
 title: Projects
 ---
 
-## Web-Based Services
-
-My employment at [watzan, LLC](http://watzan.com) has provided me the 
-opportunity to work on a [*Ruby on Rails*](http://rubyonrails.org) 
-web [application](https://zen.watzan.com) intended to scale to a large 
-number of customers in areas of retail, 
-[health](http://health.watzan.com) (conferences), and media 
-entertainment.
-
 ## Computational Biology
 
 Work arising from Master degree research in **computational biology** or 
@@ -24,6 +15,15 @@ bioinformatics.
   - [ABeRMuSA](https://github.com/AlexSafatli/ABeRMuSA): A Python CL utility 
   for three-dimensional protein structure alignment by using a simple pairwise 
   alignment strategy.
+
+## Web-Based Services
+
+My employment at [watzan, LLC](http://watzan.com) had provided me the 
+opportunity to work on a [*Ruby on Rails*](http://rubyonrails.org) 
+web [application](https://zen.watzan.com) intended to scale to a large 
+number of customers in areas of retail, 
+[health](http://health.watzan.com) (conferences), and media 
+entertainment.
 
 ## Hobby Projects
 
