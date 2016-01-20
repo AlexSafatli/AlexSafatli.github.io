@@ -1,11 +1,8 @@
 - title: "Home"
-  icon: "home"
   href: "/"
 
 - title: "Projects"
-  icon: "code"
   href: "/projects/"
 
 - title: "About"
-  icon: "question"
   href: "/about/"

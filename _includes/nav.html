@@ -2,6 +2,6 @@
   {% for item in site.data.nav %}
   {% assign current = nil %}
   {% if page.url == item.href %}{% assign current = 'active' %}{% endif %}
-  <a class="btn {{ current }}" href="{{ site.url }}{{ item.href }}">{% if item.icon %}<span class="fa fa-{{ item.icon }}"></span> {% endif %}{{ item.title }}</a>
+  <a class="btn {{ current }}" href="{{ site.url }}{{ item.href }}">{{ item.title }}</a>
   {% endfor %}
 </nav>

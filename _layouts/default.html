@@ -2,9 +2,9 @@
 <body id="top">
 
   {% include nav.html %}
-  {% if page.profile %}{% include me.html %}{% endif %}
+  {% if page.profile %}{% include me.html %}{% else %}{% include top.html %}{% endif %}
 
-  <section id="wrapper" class="{% if page.profile %}home{% endif %}">
+  <section id="wrapper">
 
     <section id="content">{{ content }}</section>
     <footer id="footer">{% include footer.html %}</footer>
