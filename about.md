@@ -3,13 +3,6 @@ permalink: /about/
 title: About
 ---
 
-## Summary
-
-I am a constantly learning **software engineer** with a reputation for 
-rigorous thinking, methodical consistency, and a ravenous appetite to learn.
-
----
-
 ## Employment
 
 I am not currently seeking employment.
