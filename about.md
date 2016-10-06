@@ -5,7 +5,7 @@ title: About
 
 ## Employment
 
-I am not currently seeking employment.
+I am **currently seeking employment**.
 
 ### Resume
 
