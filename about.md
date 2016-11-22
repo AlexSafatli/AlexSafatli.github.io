@@ -15,10 +15,6 @@ I have a general content *Resume* that I use when seeking employment that is in
 ### CV
 
 My *Curriculum Vitae* (CV) can be downloaded in **LaTeX** 
-([tex](/assets/docs/cv.tex)), **Plain Text** ([txt](/assets/docs/cv.txt)), and 
-**Adobe PDF** ([pdf](/assets/docs/cv.pdf)).
+([tex](/assets/docs/cv.tex)) and **Adobe PDF** ([pdf](/assets/docs/cv.pdf)).
 
-*[HTML]: HyperText Markup Language
-*[CSS]: Cascading Style Sheet
-*[XML]: Extensible Markup Language
-*[JS]: JavaScript
+*All documents have been updated November 2016.*
