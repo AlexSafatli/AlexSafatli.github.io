@@ -20,13 +20,12 @@ bioinformatics.
 
 My employment at [watzan, LLC](http://watzan.com) and [Amazon](http://amazon.com) 
 had provided me the opportunity to work on relatively high-demand web applications
-in areas of e-commerce, retail, [health](http://health.watzan.com) (conferences), 
-and media entertainment.
+in areas of e-commerce, retail, health, and media entertainment.
 
 ## Hobby Projects
 
 In my free time, I work on some other things. The projects that have seen the 
-*most* progress are indicated below. 
+*most* recent progress are indicated below. 
 [Other projects](http://github.com/AlexSafatli/) are not nearly as fortunate 
 but will very likely be revisited in the future.
 
@@ -43,13 +42,6 @@ but will very likely be revisited in the future.
   roleplaying game. Hosted using 
   [Google App Engine](https://cloud.google.com/appengine/docs) and coded in
   Python.
-
-### Shopping
-
-  - [AutoScraper](http://auto-scraper.heroku.com): A web-based tool that allows 
-  local car buyers to find used cars aggregated and collected from multiple 
-  local dealerships. Written in Ruby with the *Ruby on Rails* framework as part 
-  of a weekend hackathon and extended slightly from there.
 
 *[API]: Application Program Interface
 *[CL]: Command Line
