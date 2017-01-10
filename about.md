@@ -5,7 +5,8 @@ title: About
 
 ## Employment
 
-I am **currently seeking employment**.
+I am **currently happily employed** at 
+**[BeyondTrust, Inc.](http://beyondtrust.com)**.
 
 ### Resume
 
