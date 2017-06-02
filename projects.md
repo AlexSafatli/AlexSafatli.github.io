@@ -18,7 +18,7 @@ bioinformatics.
 
 ## Web-Based Services
 
-My employment at [watzan, LLC](http://watzan.com) and [Amazon](http://amazon.com) 
+My employment at [Amazon](http://amazon.com) and [watzan, LLC](http://watzan.com) 
 had provided me the opportunity to work on relatively high-demand web applications
 in areas of e-commerce, retail, health, and media entertainment.
 
