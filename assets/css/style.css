@@ -108,11 +108,6 @@ nav a.btn:hover {
   font-size: 17px;
 }
 
-abbr {
-  border-bottom-style: dotted;
-  border-bottom-width: 1px;
-}
-
 p.lead {
   font-size: 1.2rem;
   line-height: 1.5;
