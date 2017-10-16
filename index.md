@@ -17,7 +17,8 @@ code reuse and DRY and KISS principles.
 With a strong background in theoretic computer science, the following 
 also have a place near to my heart:
 
-  - Computationally difficult problems and
+  - Computationally difficult problems,
+  - Large-scale system architecture and
   - Complex data structures.
 
 Furthermore, operating systems and language development are areas that I 
