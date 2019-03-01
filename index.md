@@ -6,7 +6,7 @@ title: Home
 
 ## Description
 
-I am a software engineer with a great passion for design and system 
+I am a software engineer with a great passion for algorithms and system 
 architecture.
 
 ## Interests
