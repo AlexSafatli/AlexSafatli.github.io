@@ -5,7 +5,7 @@ title: About
 
 ## Alex is a...
 
-Alex is a software engineer with a master's degree in Computer Science he received in 2015. He currently works a full-stack developer locally in Halifax, Nova Scotia, Canada. Alex has also had past experience working at the widely-known Amazon in Seattle and regularly involves himself in code outside of work in both small and larger scale projects.
+Alex is a software engineer with a master's degree in Computer Science he received in 2015. He currently works as a full-stack developer locally in Halifax, Nova Scotia, Canada. Alex has also had past experience working at the widely-known Amazon in Seattle and regularly involves himself in code outside of work in both small and larger scale projects.
 
 ## Professional Documents
 
