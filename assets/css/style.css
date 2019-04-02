@@ -77,7 +77,6 @@ p a { color: #222; }
   color: #888;
   text-decoration: none;
   border-bottom:1px solid #bbb;
-  font-weight: 500;
 }
 
 #content a:hover {
@@ -131,7 +130,7 @@ p.box {
 li { margin: 0 0 10px 0; }
 
 .light {
-  font-weight:400;
+  font-weight:300;
   font-stretch:normal;
 }
 
@@ -280,6 +279,12 @@ img {
   width: 100%;
   max-width: 100%;
   border-radius: 3px;
+}
+
+abbr[title], dfn[title] {
+  font-weight: 300;
+  border-bottom: 1px dotted;
+  cursor: help;
 }
 
 /* Navigation */
