@@ -27,7 +27,7 @@ My *Resume* is available as a **LaTeX** ([tex](docs/resume.tex)) file and as **P
 
 ### CV
 
-My *Curriculum Vitae* (CV) is available for download as a **LaTeX** ([tex](docs/cv.tex)) file and as **PDF** ([pdf](docs/cv.pdf)).
+My *Curriculum Vitae* (CV) is available as a **LaTeX** ([tex](docs/cv.tex)) file and as **PDF** ([pdf](docs/cv.pdf)).
 
 *[DRY]: Don't Repeat Yourself
 *[KISS]: Keep It Simple Stupid
