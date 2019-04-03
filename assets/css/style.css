@@ -281,12 +281,6 @@ img {
   border-radius: 3px;
 }
 
-abbr[title], dfn[title] {
-  font-weight: 300;
-  border-bottom: 1px dotted;
-  cursor: help;
-}
-
 /* Navigation */
 nav {
   text-align: center;
