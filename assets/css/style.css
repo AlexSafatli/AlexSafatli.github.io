@@ -364,6 +364,15 @@ nav a.btn:hover, a.btn.active {
   font-style: normal;
 }
 
+/* Documents */
+
+#documents {
+  font-size: 1.2em;
+  word-spacing: 0.2em;
+  text-align: center;
+  position: relative;
+}
+
 /* Post List */
 #post-list,#archive-list {
   margin-top: 100px;

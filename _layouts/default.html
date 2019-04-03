@@ -4,12 +4,13 @@
   {% include nav.html %}
   {% if page.profile %}{% include me.html %}{% else %}{% include top.html %}{% endif %}
 
-  <section id="wrapper">
+  <div id="wrapper">
 
-    <section id="content">{{ content }}</section>
+    {% if page.documents %}{% include docs.html %}{% endif %}
+    <article id="content">{{ content }}</article>
     <footer id="footer">{% include footer.html %}</footer>
 
-  </section>
+  </div>
 
 </body>
 </html>
