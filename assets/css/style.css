@@ -38,7 +38,7 @@ h1 img {
 html, body { height: 100%; }
 
 body {
-  font-family: "Roboto", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Merriweather", serif;
   font-size: 16px;
   line-height: 18px;
   color: #666;
@@ -290,6 +290,7 @@ nav {
 }
 
 nav a.btn {
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
   padding: 0.5em;
   color: #222;
   border: 0.175em solid #222;
