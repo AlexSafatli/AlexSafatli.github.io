@@ -5,23 +5,23 @@ title: Projects
 
 ## Hobby Projects
 
-In my free time, I work on some other things. The projects that have seen the *most* recent progress are indicated below. [Other projects](http://github.com/AlexSafatli?tab=repositories) are not nearly as fortunate but will very likely be revisited in the future.
+In my free time, I work on some of these. A comphrensive list of my projects is at my [GitHub](http://github.com/AlexSafatli?tab=repositories).
 
 ### Low-Level
 
-  - [os](https://github.com/AlexSafatli/os): An x86 32-bit operating system written (in C and Assembly) to explore concepts of operating systems further than I had been exposed to in my university education.
+  - [os](https://github.com/AlexSafatli/os): An x86 32-bit operating system (in C and Assembly) to explore concepts of operating systems further than I had been exposed to in university.
 
 ### Web-Based
 
-  - [NootBot](https://github.com/AlexSafatli/NootBot): A [Discord](https://discordapp.com) bot that performs automation and soundboard tomfoolery. A rather mature project at this stage that has been hosted and maintained for years. Coded in Java using [Spring Boot](https://spring.io/projects/spring-boot). 
+  - [NootBot](https://github.com/AlexSafatli/NootBot): A [Discord](https://discordapp.com) bot for automation and soundboard tomfoolery. A relatively mature project that has been hosted and maintained for years. Coded in Java using [Spring Boot](https://spring.io/projects/spring-boot). 
 
 ### Productivity
 
-  - [senketsu](https://github.com/AlexSafatli/senketsu): [Kodi](https://kodi.tv/) and general large media library monitoring and management CLI tool written in Python. I'm writing it to help me sift through and catalogue the terabytes of media I have at home.
+  - [senketsu](https://github.com/AlexSafatli/senketsu): [Kodi](https://kodi.tv/) large media library monitoring and management CLI tool written in Python. I've written and constantly make changes to it to help me manage terabytes of video files I have at home.
 
 ### Roleplaying
 
-  - [MeatGrinder](https://github.com/AlexSafatli/MeatGrinder): A web-based tool that simplifies an element of game mechanics present in the GURPS tabletop roleplaying game. Hosted using [Google App Engine](https://cloud.google.com/appengine/docs) and coded in Python.
+  - [MeatGrinder](https://github.com/AlexSafatli/MeatGrinder): A web app that simplifies an element of game mechanics present in the GURPS tabletop RPG. Hosted using [Google App Engine](https://cloud.google.com/appengine/docs) and coded in Python.
 
 ## Computational Biology
 
@@ -38,3 +38,4 @@ My employment at [Amazon.com](http://amazon.com), [BeyondTrust](http://beyondtru
 *[CL]: Command Line
 *[CLI]: Command Line Interface
 *[GURPS]: Generic Universal Roleplaying System
+*[RPG]: Roleplaying Game
