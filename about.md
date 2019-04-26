@@ -4,9 +4,9 @@ documents: true
 title: About
 ---
 
-## Alex is a...
+## I am a...
 
-Alex is a software engineer with a M.S.E. in Computer Science. He currently works as a local full-stack developer in his hometown of Halifax, Nova Scotia, Canada. I also regularly do coding and take part in a number of projects outside of work, both small and large.
+I'm Alex. I am a software engineer with a M.S.E. in Computer Science. I currently work as a local full-stack developer in my hometown of Halifax, Nova Scotia, Canada. I also regularly do coding and take part in a number of projects outside of work, both small and large.
 
 Previously, I have...
 
