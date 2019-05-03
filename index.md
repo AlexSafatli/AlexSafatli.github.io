@@ -6,4 +6,4 @@ title: Home
 
 **I'm a software engineer**. 
 
-I have a passion for algorithms, system architecture, and data structures. To learn more about me you can visit my [About]({{ site.baseurl }}/about) page or view my [Projects]({{ site.baseurl }}/projects).
+I have a passion for artificial intelligence, system architecture, language development, data structures, and computationally difficult problems. To learn more about me you can visit my [About]({{site.baseurl}}/about) page or view my [Projects]({{site.baseurl}}/projects).

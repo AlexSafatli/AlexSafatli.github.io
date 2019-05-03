@@ -6,7 +6,7 @@ title: About
 
 ## I am a...
 
-I'm Alex. I am a software engineer with a M.S.E. in Computer Science. I currently work as a local full-stack developer in my hometown of Halifax, Nova Scotia, Canada. I also regularly do coding and take part in a number of projects outside of work, both small and large.
+I am a software engineer with a M.S.E. in Computer Science. I currently work as a local full-stack developer in  Halifax, NS, Canada. I also regularly code and participate in a number of projects outside of work, both small and large.
 
 Previously, I have...
 
@@ -16,18 +16,17 @@ Previously, I have...
 
 ## Interests
 
-I enjoy learning new programming languages, particularly ones that exemplify code reuse and DRY and KISS principles.
+I enjoy learning new programming languages. My all-purpose language of choice is [Go](https://golang.org).
 
-With a strong background in theoretic computer science, the following also have a place near to my heart:
+With a strong background in theoretic computer science, I also have a passion for the following:
 
-  - Computationally difficult problems,
-  - Large-scale system architecture and
-  - Complex data structures.
+  - Artificial intelligence,
+  - First-order logic,
+  - System architecture,
+  - Language development,
+  - Succinct data structures, and
+  - Computationally difficult problems.
 
-Furthermore, operating systems and language development are areas that I wish to pursue further.
-
-*[DRY]: Don't Repeat Yourself
-*[KISS]: Keep It Simple Stupid
 *[TA]: Teaching Assistant
 *[RA]: Research Assistant
 *[PPL]: Principles of Programming Languages
