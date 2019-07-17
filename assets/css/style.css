@@ -615,7 +615,7 @@ h2.month {
   nav { margin-bottom: -1em; }
   nav a { margin-top: 0.25em; }
   nav a.btn { width: 5.1em; }
-  #wrapper { padding: 0 20px; text-align: center; }
+  #wrapper { padding: 0 20px; }
   #header { margin-bottom: 60px; border-bottom: 1px solid #eee; }
   #footer { margin-top: 60px; }
   #post-list, #archive-list { margin-top: 0; }
