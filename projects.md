@@ -5,7 +5,7 @@ title: Projects
 
 ## Hobby Projects
 
-In my free time, I have worked on or work on some of these. A comphrensive list is at my [GitHub](http://github.com/AlexSafatli?tab=repositories).
+In my free time, I have worked on or work on some of the following. A more comphrensive list of projects is at my [GitHub](http://github.com/AlexSafatli?tab=repositories).
 
 ### Low-Level
 
