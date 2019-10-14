@@ -4,7 +4,7 @@ documents: true
 title: About
 ---
 
-## I am a...
+## I am...
 
 I am currently studying for a PhD in Computer Science and was previously a software engineer. I possess a M.S.E. in Computer Science from Dalhousie University. I also regularly code and participate in a number of projects, both small and large.
 
@@ -12,7 +12,7 @@ Previously, I have...
 
   - Worked at [Amazon.com](https://amazon.com) in Seattle, WA.
   - Worked at a small number of software companies in Halifax, NS.
-  - Served as a TA for PPL, Operating Systems, Communications and Bioinformatics.
+  - Served as a TA for PPL, Operating Systems, Communications, Introduction to Computer Science, Python and Bioinformatics.
   - Won several NSERC USRA awards and served as a RA in just as many science labs.
 
 ## Interests
@@ -21,8 +21,8 @@ I enjoy learning new programming languages. My all-purpose language of choice is
 
 With a strong background in theoretic computer science, I also have a passion for the following:
 
-  - Artificial intelligence,
   - First-order logic,
+  - Artificial intelligence,
   - System architecture,
   - Language development,
   - Succinct data structures, and
