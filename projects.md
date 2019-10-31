@@ -28,7 +28,7 @@ This is a selection of projects I have touched. Visit my [GitHub](http://github.
 Work arising from research in **computational biology** or bioinformatics.
 
   - [Pylogeny](https://github.com/AlexSafatli/Pylogeny): A peer-reviewed and [journal-published](https://peerj.com/articles/cs-9/) framework for working with discrete combinatorics in [phylogeny](http://en.wikipedia.org/wiki/Phylogenetics). *Python*.
-  - [ABeRMuSA](https://github.com/AlexSafatli/ABeRMuSA): A CL utility for three-dimensional protein structure alignment by using a simple pairwise alignment strategy. *Python*.
+  - [ABeRMuSA](https://github.com/AlexSafatli/ABeRMuSA): A CLI utility for three-dimensional protein structure alignment by using a simple pairwise alignment strategy. *Python*.
 
 ## Web-Based Services
 
@@ -36,7 +36,6 @@ My employment at [Amazon.com](http://amazon.com), [BeyondTrust](http://beyondtru
 
 *[OS]: Operating Systems
 *[API]: Application Program Interface
-*[CL]: Command Line
 *[CLI]: Command Line Interface
 *[GURPS]: Generic Universal Roleplaying System
 *[RPG]: Roleplaying Game
