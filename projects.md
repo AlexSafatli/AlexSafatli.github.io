@@ -21,6 +21,7 @@ This is a selection of projects I have touched. Visit my [GitHub](http://github.
 
 ### Roleplaying
 
+  - [Saber](https://github.com/AlexSafatli/Saber): An engine to provide tooling and algorithm implementation for character, setting, history, and story element generation for tabletop roleplaying games. *Go*.
   - [MeatGrinder](https://github.com/AlexSafatli/MeatGrinder): A web app that automates an element of game mechanics present in the GURPS tabletop RPG. Hosted with [Google App Engine](https://cloud.google.com/appengine/docs). *Python*.
 
 ## Computational Biology
