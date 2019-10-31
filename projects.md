@@ -5,27 +5,27 @@ title: Projects
 
 ## Hobby Projects
 
-In my free time, I have worked on or work on some of the following. A more comphrensive list of projects is at my [GitHub](http://github.com/AlexSafatli?tab=repositories).
+This is a selection of projects I have touched. A more comphrensive list is at my [GitHub](http://github.com/AlexSafatli?tab=repositories).
 
 ### Low-Level
 
-  - [os](https://github.com/AlexSafatli/os): An x86 32-bit operating system used to explore concepts of operating systems and system architecture. *C and Assembly*.
+  - [os](https://github.com/AlexSafatli/os): An x86 32-bit operating system used to explore concepts of operating systems and system architecture. *C, Assembly*.
 
 ### Web-Based
 
   - [NootBot](https://github.com/AlexSafatli/NootBot): A [Discord](https://discordapp.com) bot for automation and soundboard tomfoolery. A relatively mature project that has been hosted and maintained for years. *Java with [Spring Boot](https://spring.io/projects/spring-boot)*. 
 
-### Productivity
+### Media Server Automation
 
-  - [senketsu](https://github.com/AlexSafatli/senketsu): [Kodi](https://kodi.tv/) large media library monitoring and management CLI tool. I've written and constantly make changes to it to help me manage terabytes of video files I have at home. *Python*.
+  - [senketsu](https://github.com/AlexSafatli/senketsu): [Plex](https://plex.tv) + [Kodi](https://kodi.tv/) media library monitoring and management CLI tool that leverages [Airtable](https://airtable.com/). Written and constantly changed to help manage terabytes of video files I have at home. *Go*.
 
 ### Roleplaying
 
-  - [MeatGrinder](https://github.com/AlexSafatli/MeatGrinder): A web app that simplifies an element of game mechanics present in the GURPS tabletop RPG. Hosted using [Google App Engine](https://cloud.google.com/appengine/docs). *Python*.
+  - [MeatGrinder](https://github.com/AlexSafatli/MeatGrinder): A web app that simplifies and automates an element of game mechanics present in the GURPS tabletop RPG. Hosted with [Google App Engine](https://cloud.google.com/appengine/docs). *Python*.
 
 ## Computational Biology
 
-Work arising from Master degree research in **computational biology** or bioinformatics.
+Work arising from research in **computational biology** or bioinformatics.
 
   - [Pylogeny](https://github.com/AlexSafatli/Pylogeny): A peer-reviewed and [journal-published](https://peerj.com/articles/cs-9/) framework for working with discrete combinatorics in [phylogeny](http://en.wikipedia.org/wiki/Phylogenetics). *Python*.
   - [ABeRMuSA](https://github.com/AlexSafatli/ABeRMuSA): A CL utility for three-dimensional protein structure alignment by using a simple pairwise alignment strategy. *Python*.

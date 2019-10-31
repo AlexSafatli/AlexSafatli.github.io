@@ -3,6 +3,8 @@ description: PhD Student at Dalhousie University
 paginate: 20
 author: Alexander Safatli
 permalink: /:year/:title/
+plugins:
+    - jekyll-minifier
 defaults:
     -
         scope:

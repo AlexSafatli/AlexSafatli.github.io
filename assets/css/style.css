@@ -1,4 +1,5 @@
-/* Alex Safatli 2016 - Adapted from Cactus Theme (https://github.com/nickbalestra/kactus) */
+/* Alex Safatli 2016
+Adapted from Cactus Theme (https://github.com/nickbalestra/kactus) */
 
 /* Reset */
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,
@@ -23,14 +24,6 @@ table{border-collapse:collapse;border-spacing:0;}
   box-sizing: border-box; 
 }
 
-/* Base Utility */
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-.hidden { display: none; }
-
 /* Spacing */
 h1, h2, h3, h4, h5, p, ul, li, pre, code {
   margin-top: 20px;
@@ -42,17 +35,8 @@ h1 img {
 }
 
 /* Base */
-html, body { height: 100%; }
-
-body {
-  font-family: "Merriweather", serif;
-  font-size: 16px;
-  line-height: 18px;
-  color: #666;
-  -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
+html, body {
+  height: 100%;
 }
 
 #wrapper {
@@ -68,7 +52,41 @@ body {
   border-radius: 50%;
 }
 
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.hidden {
+  display: none;
+}
+
+.description {
+  float: right;
+  color: #bbb;
+}
+
+#watermark {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  height: 48px;
+  width: 48px;
+}
+
 /* Typography */
+body {
+  font-family: "Merriweather", serif;
+  font-size: 16px;
+  line-height: 18px;
+  color: #666;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
 a,
 #title,
 #post-list a:hover,
@@ -78,7 +96,9 @@ a,
   color: #222;
 }
 
-p a { color: #222; }
+p a {
+  color: #222;
+}
 
 #content a {
   color: #888;
@@ -133,7 +153,9 @@ p.box {
   padding: 14px 20px;
 }
 
-li { margin: 0 0 10px 0; }
+li {
+  margin: 0 0 10px 0;
+}
 
 .light {
   font-weight:300;
@@ -143,9 +165,11 @@ li { margin: 0 0 10px 0; }
 b, strong { 
   font-weight: bold; 
 }
+
 em, i {
   font-style: italic; 
 }
+
 abbr[title], dfn[title] {
     border-bottom: 1px dotted;
     cursor: help;
@@ -158,11 +182,6 @@ abbr[title], dfn[title] {
   font-size: 19px;
   margin: 0;
   padding-bottom: 20px;
-}
-
-.description {
-  float: right;
-  color: #bbb;
 }
 
 .logo {
@@ -235,7 +254,9 @@ span.code, pre {
   font-family: 'Fira Code', Menlo, Monaco, 'Source Code Pro', Courier, monospace; 
 }
 
-span.code { background-color: #eee; font-size: 14px; }
+span.code {
+  background-color: #eee; font-size: 14px;
+}
 
 pre  {
   white-space:pre-wrap;
@@ -315,15 +336,6 @@ nav a.btn:hover, a.btn.active {
   background-color: #222;
   color: white;
   border: 0.175em solid #222;
-}
-
-/* Watermark */
-#watermark {
-  position: absolute;
-  bottom: 8px;
-  right: 8px;
-  height: 48px;
-  width: 48px;
 }
 
 /* Profile */

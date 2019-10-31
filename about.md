@@ -6,7 +6,7 @@ title: About
 
 ## I am...
 
-I am studying for a PhD in Computer Science at Dalhousie University, which is where I also acquired my M.S.E. in Computer Science. I enjoy teaching, learning new things, and building systems from scratch. I regularly code and participate in a number of projects, both small and large.
+I am studying for a PhD in CS at Dalhousie University. I enjoy teaching, learning new things, and building systems from scratch. I regularly code and participate in a number of projects, both small and large.
 
 Previously, I have...
 
@@ -14,6 +14,7 @@ Previously, I have...
   - Worked for a number of software companies in Halifax, NS.
   - Served as a TA for PPL, Operating Systems, Bioinformatics, Communications, Introduction to Computer Science, and Python.
   - Won several NSERC USRA awards and served as a RA in just as many science labs.
+  - Acquired a M.S.E. in Computer Science from Dalhousie University.
 
 ## Interests
 
@@ -28,6 +29,7 @@ I also have a passion for the following reseach fields:
   - Succinct data structures, and
   - Computationally difficult problems.
 
+*[CS]: Computer Science
 *[TA]: Teaching Assistant
 *[RA]: Research Assistant
 *[PPL]: Principles of Programming Languages
