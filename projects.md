@@ -5,23 +5,23 @@ title: Projects
 
 ## Hobby Projects
 
-This is a selection of projects I have touched. A more comphrensive list is at my [GitHub](http://github.com/AlexSafatli?tab=repositories).
+This is a selection of projects I have touched. Visit my [GitHub](http://github.com/AlexSafatli?tab=repositories) for a comprehensive list.
 
 ### Low-Level
 
-  - [os](https://github.com/AlexSafatli/os): An x86 32-bit operating system used to explore concepts of operating systems and system architecture. *C, Assembly*.
+  - [os](https://github.com/AlexSafatli/os): An x86 32-bit operating system used to explore concepts of OS and architecture. *C, Assembly*.
+
+### Automation
+
+  - [senketsu](https://github.com/AlexSafatli/senketsu): [Plex](https://plex.tv) + [Kodi](https://kodi.tv/) media library CLI tool that leverages [Airtable](https://airtable.com/). Written and constantly modified to help manage terabytes of video files I have at home. Originally in Python but recently rewritten in Go for better performance and control. *Go*.
 
 ### Web-Based
 
-  - [NootBot](https://github.com/AlexSafatli/NootBot): A [Discord](https://discordapp.com) bot for automation and soundboard tomfoolery. A relatively mature project that has been hosted and maintained for years. *Java with [Spring Boot](https://spring.io/projects/spring-boot)*. 
-
-### Media Server Automation
-
-  - [senketsu](https://github.com/AlexSafatli/senketsu): [Plex](https://plex.tv) + [Kodi](https://kodi.tv/) media library monitoring and management CLI tool that leverages [Airtable](https://airtable.com/). Written and constantly changed to help manage terabytes of video files I have at home. *Go*.
+  - [NootBot](https://github.com/AlexSafatli/NootBot): A [Discord](https://discordapp.com) bot for automation and sound tomfoolery. A relatively mature project that has been hosted and maintained for years. A potential candidate for [a rewrite in Go](https://github.com/AlexSafatli/Garrus). *Java with [Spring Boot](https://spring.io/projects/spring-boot)*.
 
 ### Roleplaying
 
-  - [MeatGrinder](https://github.com/AlexSafatli/MeatGrinder): A web app that simplifies and automates an element of game mechanics present in the GURPS tabletop RPG. Hosted with [Google App Engine](https://cloud.google.com/appengine/docs). *Python*.
+  - [MeatGrinder](https://github.com/AlexSafatli/MeatGrinder): A web app that automates an element of game mechanics present in the GURPS tabletop RPG. Hosted with [Google App Engine](https://cloud.google.com/appengine/docs). *Python*.
 
 ## Computational Biology
 
@@ -34,6 +34,7 @@ Work arising from research in **computational biology** or bioinformatics.
 
 My employment at [Amazon.com](http://amazon.com), [BeyondTrust](http://beyondtrust.com) and [watzan](http://watzan.com) had provided me the opportunity to work on relatively real-time, high-demand web applications in areas of e-commerce, enterprise security, retail, health, and media entertainment.
 
+*[OS]: Operating Systems
 *[API]: Application Program Interface
 *[CL]: Command Line
 *[CLI]: Command Line Interface
