@@ -1,6 +1,6 @@
 name: Alexander Safatli
 description: PhD Student at Dalhousie University
-paginate: 20
+paginate: 10
 author: Alexander Safatli
 permalink: /:year/:title/
 plugins:
