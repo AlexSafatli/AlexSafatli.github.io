@@ -15,14 +15,15 @@ This is a selection of projects I have touched. Visit my [GitHub](http://github.
 
   - [senketsu](https://github.com/AlexSafatli/senketsu): [Plex](https://plex.tv) + [Kodi](https://kodi.tv/) media library CLI tool that leverages [Airtable](https://airtable.com/). Written and constantly modified to help manage terabytes of video files I have at home. Originally in Python but recently rewritten in Go for better performance and control. *Go*.
 
-### Web-Based
-
-  - [NootBot](https://github.com/AlexSafatli/NootBot): A [Discord](https://discordapp.com) bot for automation and sound tomfoolery. A relatively mature project that has been hosted and maintained for years. A potential candidate for [a rewrite in Go](https://github.com/AlexSafatli/Garrus). *Java with [Spring Boot](https://spring.io/projects/spring-boot)*.
-
 ### Roleplaying
 
   - [Saber](https://github.com/AlexSafatli/Saber): An engine to provide tooling and algorithm implementation for character, setting, history, and story element generation for tabletop roleplaying games. *Go*.
   - [MeatGrinder](https://github.com/AlexSafatli/MeatGrinder): A web app that automates an element of game mechanics present in the GURPS tabletop RPG. Hosted with [Google App Engine](https://cloud.google.com/appengine/docs). *Python*.
+  - [Resonating Aria](http://web.cs.dal.ca/~safatli/blog/): A [Wordpress](https://wordpress.org) blog that I regularly maintain and have started to revisit discussing roleplaying in various articles, many about how to leverage code to automate tasks in RPGs.
+
+### Web-Based
+
+  - [NootBot](https://github.com/AlexSafatli/NootBot): A [Discord](https://discordapp.com) bot for automation and sound tomfoolery. A relatively mature project that has been hosted and maintained for years. A potential candidate for [a rewrite in Go](https://github.com/AlexSafatli/Garrus). *Java with [Spring Boot](https://spring.io/projects/spring-boot)*.
 
 ## Computational Biology
 
