@@ -8,7 +8,7 @@ title: About
 
 I am studying for a PhD in Computer Science at Dalhousie University.
 
-I enjoy teaching, automating things, and building systems from scratch. I regularly code and participate in a number of projects, both small and large.
+I enjoy teaching, automating things, and building systems from scratch. I regularly code and participate in [a number of projects]({{site.baseurl}}/projects), both small and large.
 
 Previously, I have...
 
