@@ -119,7 +119,6 @@ nav a.btn {
 }
 
 nav a.btn:hover, a.btn.active {
-  background-color: #b16286;
   color: white;
   border: 0.175em solid #b16286;
 }
