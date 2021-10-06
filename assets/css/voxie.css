@@ -125,11 +125,15 @@ nav a.btn:hover, a.btn.active {
 }
 
 .profile #avatar {
-  border: 5px solid #b16286;
+  border: 5px solid #cc241d;
 }
 
 #avatar.small {
-  border: 3px solid #b16286;
+  border: 3px solid #cc241d;
+}
+
+.profile h1 {
+  color: #cc241d;
 }
 
 .profile h2 {
