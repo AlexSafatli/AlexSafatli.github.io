@@ -5,24 +5,30 @@ title: Projects
 
 ## Hobby Projects
 
-This is a selection of projects I have touched. Visit my [GitHub](http://github.com/AlexSafatli?tab=repositories) for a comprehensive list.
+This is a small selection of projects I have touched and am proud of. Visit my [GitHub](http://github.com/AlexSafatli?tab=repositories) for a more comprehensive list.
 
-### Low-Level
+### Architecture
 
   - [os](https://github.com/AlexSafatli/os): An x86 32-bit operating system used to explore concepts of OS and architecture. *C, Assembly*.
 
 ### Automation
 
-  - [senketsu](https://github.com/AlexSafatli/senketsu): [Plex](https://plex.tv) + [Kodi](https://kodi.tv/) media library CLI tool that leverages [Airtable](https://airtable.com/). Written and constantly modified to help manage terabytes of video files I have at home. Originally in Python but recently rewritten in Go for better performance and control. *Go*.
+#### Multimedia
 
-### Roleplaying
+  - [senketsu](https://github.com/AlexSafatli/senketsu): [Plex](https://plex.tv)/[Kodi](https://kodi.tv/) library CLI tool that leverages [Airtable](https://airtable.com/). Written and scaled to help manage terabytes of video files I have at home. Recently rewritten in Go from Python for better performance and control. *Go, Python*.
+
+#### Roleplaying
 
   - [Saber](https://github.com/AlexSafatli/Saber): An engine to provide tooling and algorithm implementation for character, setting, history, and story element generation for tabletop roleplaying games. *Go*.
+  - [airtable-dnd](https://github.com/AlexSafatli/airtable-dnd): A CLI tool that leverages [Airtable](https://airtable.com) in order to automate components of play in real-time for an ongoing D&D 5th Edition campaign. 
   - [MeatGrinder](https://github.com/AlexSafatli/MeatGrinder): A web app that automates an element of game mechanics present in the GURPS tabletop RPG. Hosted with [Google App Engine](https://cloud.google.com/appengine/docs). *Python*.
 
-### Web-Based
+### Web
 
-  - [NootBot](https://github.com/AlexSafatli/NootBot): A [Discord](https://discordapp.com) bot for automation and sound tomfoolery. A relatively mature project that has been hosted and maintained for years. A potential candidate for [a rewrite in Go](https://github.com/AlexSafatli/Garrus). *Java with [Spring Boot](https://spring.io/projects/spring-boot)*.
+#### Discord
+
+  - [Garrus](https://github.com/AlexSafatli/Garrus): A [Discord](https://discordapp.com) bot for automation and sound tomfoolery written to be low resource footprint and have minimal basic functionality. *Go*.
+  - [NootBot](https://github.com/AlexSafatli/NootBot): The monolithic but mature and functional precursor to *Garrus*. Has been hosted and maintained for years. *Java with [Spring Boot](https://spring.io/projects/spring-boot)*.
 
 ## Computational Biology
 
@@ -39,4 +45,5 @@ My employment at [Amazon.com](http://amazon.com), [BeyondTrust](http://beyondtru
 *[API]: Application Program Interface
 *[CLI]: Command Line Interface
 *[GURPS]: Generic Universal Roleplaying System
+*[D&D]: Dungeons & Dragons
 *[RPG]: Roleplaying Game

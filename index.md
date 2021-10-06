@@ -6,4 +6,4 @@ title: Home
 
 **I'm a software engineer**. 
 
-I am interested in first-order logic, computer architecture, succinct data structures, and programming languages. To learn more about me, visit my [About]({{site.baseurl}}/about) and [Projects]({{site.baseurl}}/projects) pages.
+I love system design, scalability, computer architecture, logic, and programming languages. Visit either my [About]({{site.baseurl}}/about) or [Projects]({{site.baseurl}}/projects) pages for more about what I do.

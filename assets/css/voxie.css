@@ -1,0 +1,145 @@
+/* Alex Safatli 2021
+Based colors off of a stylesheet used for a start page by voxie12
+ (https://github.com/voxie12/voxie12.github.io/blob/main/style.css)
+*/
+
+body {
+  background-color: #1d2021;
+  color: #ebdbb2;
+}
+
+.description {
+  color: #bbb;
+}
+
+a,
+#title,
+#post-list a:hover,
+#post-list li:hover .dates,
+#title:hover {
+  text-decoration: none;
+  color: #d79921;
+}
+
+p a {
+  color: #d79921;
+}
+
+#content a {
+  color: inherit-;
+  text-decoration: none;
+  border-bottom:1px solid #ebdbb2;
+}
+
+#content a:hover {
+  color: #d79921;
+  border-bottom-color: #d79921;
+}
+
+#content a.btn {
+  color: #cc241d;
+  border: 0.15em solid #cc241d;
+}
+
+#content a.btn:hover,
+nav a.btn:hover {
+  color: #cc241d;
+  border-color: #cc241d;
+}
+
+p.header-lead {
+  margin-bottom: 0;
+  color: #d79921;
+}
+
+p.box {
+  color: #888;
+  border: solid 1px #888;
+  background-color: #ebdbb2;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  padding: 14px 20px;
+}
+
+.logo {
+  color: #bbb;
+}
+
+
+.post h1 {
+  color: #b16286;
+}
+
+.post h2 {
+  color: #b16286;
+}
+
+.post h2.headline {
+  color: #ebdbb2;
+}
+
+#post-list h2 {
+  color: #b16286;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #b16286;
+}
+
+hr {
+  border-top: 1px solid #ebdbb2;
+}
+
+span.code {
+  background-color: #ebdbb2;
+}
+
+pre {
+  background-color: #ebdbb2;
+  background: #272b2d;
+  color: #888;
+}
+
+tr>td {
+  border-top: 1px solid #ebdbb2;
+}
+
+tr:nth-child(odd)>td {
+  background: #fcfcfc;
+}
+
+thead th, th {
+  color: #444;
+  border-bottom: 1px solid #dadadc;
+}
+
+nav a.btn {
+  color: #cc241d;
+}
+
+nav a.btn:hover, a.btn.active {
+  background-color: #cc241d;
+  color: white;
+  border: 0.175em solid #cc241d;
+}
+
+.profile #avatar {
+  border: 5px solid #b16286;
+}
+
+#avatar.small {
+  border: 3px solid #b16286;
+}
+
+.profile h2 {
+  font-weight: 300;
+  color: #bbb;
+  margin-top: 10px;
+  font-style: normal;
+}
+
+#footer {
+  box-shadow: inset 0 1px 0 #ebdbb2;
+}
+

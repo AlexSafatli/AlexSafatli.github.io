@@ -8,7 +8,7 @@ title: About
 
 I am a software engineer who graduated with a M.S.E. in CS and started studies for a PhD in Computer Science at Dalhousie University.
 
-I enjoy teaching, automating things, and building systems from scratch. I regularly code and participate in [a number of projects]({{site.baseurl}}/projects), both small and large.
+I enjoy teaching. And I absolutely adore automating things and building systems from scratch. I regularly code and participate in [a number of projects]({{site.baseurl}}/projects), both small and large.
 
 Previously, I have...
 
@@ -21,10 +21,11 @@ For a more comphrensive list of my achievements and experience, you can view my 
 
 ## Interests
 
-I enjoy learning new programming languages. My favorite all-purpose language is [Go](https://golang.org) but I am also enjoying learning [Haskell](haskell.org).
+I enjoy learning new programming languages. My favorite all-purpose language is [Go](https://golang.org) but I am also recently enjoying learning [Haskell](haskell.org).
 
 I am interested in the following fields of computer science:
 
+  - System design,
   - First-order logic,
   - System architecture,
   - Succinct data structures, and
