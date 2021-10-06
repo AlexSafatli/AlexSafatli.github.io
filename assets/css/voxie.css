@@ -133,12 +133,12 @@ nav a.btn:hover, a.btn.active {
 }
 
 .profile h1 {
-  color: #cc241d;
+  color: #ebdbb2;
 }
 
 .profile h2 {
   font-weight: 300;
-  color: #bbb;
+  color: #ebdbb2;
   margin-top: 10px;
   font-style: normal;
 }
