@@ -37,14 +37,14 @@ p a {
 }
 
 #content a.btn {
-  color: #cc241d;
-  border: 0.15em solid #cc241d;
+  color: #b16286;
+  border: 0.15em solid #b16286;
 }
 
 #content a.btn:hover,
 nav a.btn:hover {
-  color: #cc241d;
-  border-color: #cc241d;
+  color: #b16286;
+  border-color: #b16286;
 }
 
 p.header-lead {
@@ -115,32 +115,29 @@ thead th, th {
 }
 
 nav a.btn {
-  color: #cc241d;
+  color: #b16286;
 }
 
 nav a.btn:hover, a.btn.active {
-  background-color: #cc241d;
+  background-color: #b16286;
   color: white;
-  border: 0.175em solid #cc241d;
+  border: 0.175em solid #b16286;
 }
 
 .profile #avatar {
   border: 5px solid #cc241d;
 }
 
-#avatar.small {
-  border: 3px solid #cc241d;
-}
-
 .profile h1 {
-  color: #ebdbb2;
+  color: #cc241d;
 }
 
 .profile h2 {
-  font-weight: 300;
   color: #ebdbb2;
-  margin-top: 10px;
-  font-style: normal;
+}
+
+#avatar.small {
+  border: 3px solid #cc241d;
 }
 
 #footer {

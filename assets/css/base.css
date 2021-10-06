@@ -281,6 +281,12 @@ nav a.btn {
   font-weight: 400;
 }
 
+.profile h2 {
+  font-weight: 300;
+  margin-top: 10px;
+  font-style: normal;
+}
+
 #documents {
   font-size: 1.2em;
   word-spacing: 0.2em;
