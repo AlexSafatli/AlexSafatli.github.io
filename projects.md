@@ -28,7 +28,7 @@ This is a small selection of projects I have touched and am proud of. Visit my [
 #### Discord
 
   - [Garrus](https://github.com/AlexSafatli/Garrus): A [Discord](https://discordapp.com) bot for automation and sound tomfoolery written to be low resource footprint and have minimal basic functionality. *Go*.
-  - [NootBot](https://github.com/AlexSafatli/NootBot): The monolithic but mature and functional precursor to *Garrus*. Has been hosted and maintained for years. *Java with [Spring Boot](https://spring.io/projects/spring-boot)*.
+  - [NootBot](https://github.com/AlexSafatli/NootBot): The monolithic but mature and functional precursor to *Garrus*. Was hosted and maintained for six years. *Java with [Spring Boot](https://spring.io/projects/spring-boot)*.
 
 ## Computational Biology
 
