@@ -120,7 +120,6 @@ nav a.btn {
 
 nav a.btn:hover, a.btn.active {
   color: white;
-  border: 0.175em solid #b16286;
 }
 
 .profile #avatar {

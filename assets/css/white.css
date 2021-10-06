@@ -1,374 +1,370 @@
 /* Alex Safatli 2016
 Adapted from Cactus Theme (https://github.com/nickbalestra/kactus) */
 
-@media screen and (prefers-color-scheme: light) {
-
-  .description {
-    color: #bbb;
-  }
-
-  body {
-    color: #666;
-  }
-
-  a,
-  #title,
-  #post-list a:hover,
-  #post-list li:hover .dates,
-  #title:hover {
-    text-decoration: none;
-    color: #222;
-  }
-
-  p a {
-    color: #222;
-  }
-
-  #content a {
-    color: #888;
-    text-decoration: none;
-    border-bottom:1px solid #bbb;
-  }
-
-  #content a:hover {
-    color: black;
-    border-bottom-color: black;
-  }
-
-  #content a.btn {
-    color: #222;
-    border: 0.15em solid #222;
-  }
-
-  #content a.btn:hover,
-  nav a.btn:hover {
-    color: black;
-    border-color: black;
-  }
-
-  p.header-lead {
-    margin-bottom: 0;
-    color: #888;
-  }
-
-  p.box {
-    color: #222;
-    border: solid 1px #222;
-    background-color: #ead1d7;
-    -moz-border-radius: 6px;
-    -webkit-border-radius: 6px;
-    border-radius: 6px;
-    padding: 14px 20px;
-  }
-
-  .logo {
-    color: #bbb;
-  }
-
-  .post h1 {
-    color: #888;
-  }
-
-  .post h2 {
-    color: #888;
-  }
-
-  .post h2.headline {
-    color: #b2b9be;
-  }
-
-  #post-list h2 {
-    color: #888;
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-    color: #222;
-  }
-
-  p.small {
-    color: #333;
-  }
-
-  blockquote {
-    padding-left: 15px;
-    border-left: 3px solid #bbb;
-    color: #888;
-  }
-
-  hr {
-    border-top: 1px solid #eee;
-  }
-
-  span.code {
-    background-color: #eee;
-  }
-
-  pre {
-    background-color: #fdfdfd;
-    background: #272b2d;
-    color: #888;
-  }
-
-  tr>td {
-    border-top: 1px solid #eaeaea;
-  }
-
-  tr:nth-child(odd)>td {
-    background: #fcfcfc;
-  }
-
-  thead th,th {
-    color: #444;
-    border-bottom: 1px solid #dadadc;
-  }
-
-  nav a.btn {
-    color: #222;
-  }
-
-  nav a.btn:hover, a.btn.active {
-    background-color: #222;
-    color: white;
-    border: 0.175em solid #222;
-  }
-
-  .profile #avatar {
-    border: 5px solid #222;
-  }
-
-  #avatar.small {
-    border: 3px solid #222;
-  }
-
-  .profile h2 {
-    font-weight: 300;
-    color: #bbb;
-    margin-top: 10px;
-    font-style: normal;
-  }
-
-  /* Post List */
-  #post-list,#archive-list {
-    margin-top: 100px;
-  }
-
-  #post-list li,#archive-list li {
-    list-style-type: none;
-  }
-
-  #post-list li:last-child {
-    margin-bottom: 0;
-  }
-
-  #post-list li+li {
-    padding-top: 20px;
-    border-top: 1px solid #eee;
-  }
-
-  #post-list a {
-    color: #333;
-    display: block;
-    font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
-  }
-
-  #post-list .dates {
-    float: right;
-    position: relative;
-    top: 1px;
-    font: 300 17px/1.8 "Helvetica Neue",helvetica,Arial,sans-serif;
-    color: #888;
-  }
-
-  #post-list-footer {
-    border-top: 1px solid #eee;
-    margin-top: 20px;
-    padding-top: 100px;
-  }
-
-  #archive-link {
-    display: inline-block;
-    font-size: 13px;
-    font-weight: bold;
-    border-radius: 4px;
-    padding: 3px 10px 6px;
-    box-shadow: 0 0 0 1px hsla(207,83%,80%,1);
-  }
-
-  #archive-link:hover {
-    background: #5694f1;
-    color: #fff;
-    box-shadow: 0 0 0 1px #5694f1;
-  }
-
-  #archive-link span {
-    position: relative;
-    top: 0;
-    font-size: 17px;
-  }
-
-  #footer {
-    box-shadow: inset 0 1px 0 #eee;
-  }
-
-  /* Post Page */
-  #header {
-    border-bottom: 1px solid #eee;
-  }
-
-  .post {
-    margin: 80px 0 0 0;
-  }
-
-  #post-meta {
-    font-size: 13px;
-    font-weight: bold;
-    line-height: 1.4;
-    border-top: 1px solid #eee;
-    padding-top: 40px;
-    margin-bottom: 40px;
-    padding-bottom: 40px;
-    margin-top: 40px;
-    color:#444;
-    border-bottom: 1px solid #eee;
-  }
-
-  #post-meta div span {
-    color: #aaa;
-    font-weight: 500;
-    display: block;
-  }
-
-  #post-meta div span.dark {
-    color: #1E2025;
-
-  }
-
-  #post-meta div {
-    margin: 0 25px 0 0;
-    float: left;
-  }
-
-  /* Post Navigation */
-  #post-nav {
-    border-top:1px solid #eee;
-    text-align:center;
-    padding-top:20px;
-    font-size:13px;
-    font-weight:500;
-    margin-top: 40px;
-  }
-
-  #post-nav span {
-    -webkit-transition: all 0.1s linear;
-    -moz-transition: all 0.1s linear;
-    -ms-transition: all 0.1s linear;
-    -o-transition: all 0.1s linear;
-    transition: all 0.1s linear;
-    position: relative;
-  }
-
-  #post-nav span.prev {
-    float: left;
-  }
-
-  #post-nav span.next {
-    float: right;
-  }
-
-  #post-nav span .arrow {
-    position: relative;
-    padding: 1px;
-  }
-
-  #post-nav span.prev:hover .arrow {
-    left: -4px;
-  }
-
-  #post-nav span.next:hover .arrow {
-    right: -4px;
-  }
-
-  #post-nav span.prev:hover {
-    left: -3px;
-  }
-
-  #post-nav span.next:hover {
-    right: -3px;
-  }
-
-  /* Social */
-  #social {
-    height: 3em;
-  }
-
-  #social a {
-    padding-left: 2px;
-    padding-right: 2px;
-  }
-
-  /* Archive */
-  h1.archive {
-    margin-bottom: 0px;
-  }
-
-  h2.month {
-    width: 100%;
-    font: bold 13px/1 "Helvetica Neue",helvetica,Arial,sans-serif;
-    text-transform: uppercase;
-    margin-top: 40px;
-    margin-bottom: 10px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #eee;
-  }
-
-  #archive-list li:last-child {
-    margin-bottom: 0;
-  }
-
-  #archive-list a {
-    display: block;
-    font: bold 17px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
-    color: #333;
-  }
-
-  #archive-list .dates {
-    float: right;
-    position: relative;
-    top: 1px;
-    font: 300 17px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
-    color: #888;
-  }
-
-  #archive-list li a:hover,#archive-list li:hover .dates {
-    color: #5694f1;
-  }
-
-  #post-meta img.avatar {
-    height: 36px;
-    width: 36px;
-    float: left;
-    border-radius: 50%;
-    margin-top: 3px;
-    margin-right: 20px;
-    box-shadow: 0 0 0 3px #fff, 0 0 0 4px #eee;
-  }
-
-  #post-list.archive.readmore h3{
-    font: 400 20px "Helvetica Neue", Helvetica,Arial,sans-serif;
-    margin-bottom: 30px;
-  }
-
-  #post-list.archive.readmore a{
-    font: 400 16px/1.6 "Helvetica Neue",helvetica,Arial,sans-serif;
-    color: #5694f1;
-  }
-
-  #post-list.archive.readmore a:hover{
-    opacity: 0.8;
-  }
-
-  #post-list.archive.readmore .dates{
-    font: 300 16px/1.6 "Helvetica Neue",helvetica,Arial,sans-serif;
-  }
-
+.description {
+  color: #bbb;
+}
+
+body {
+  color: #666;
+}
+
+a,
+#title,
+#post-list a:hover,
+#post-list li:hover .dates,
+#title:hover {
+  text-decoration: none;
+  color: #222;
+}
+
+p a {
+  color: #222;
+}
+
+#content a {
+  color: #888;
+  text-decoration: none;
+  border-bottom:1px solid #bbb;
+}
+
+#content a:hover {
+  color: black;
+  border-bottom-color: black;
+}
+
+#content a.btn {
+  color: #222;
+  border: 0.15em solid #222;
+}
+
+#content a.btn:hover,
+nav a.btn:hover {
+  color: black;
+  border-color: black;
+}
+
+p.header-lead {
+  margin-bottom: 0;
+  color: #888;
+}
+
+p.box {
+  color: #222;
+  border: solid 1px #222;
+  background-color: #ead1d7;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  padding: 14px 20px;
+}
+
+.logo {
+  color: #bbb;
+}
+
+.post h1 {
+  color: #888;
+}
+
+.post h2 {
+  color: #888;
+}
+
+.post h2.headline {
+  color: #b2b9be;
+}
+
+#post-list h2 {
+  color: #888;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222;
+}
+
+p.small {
+  color: #333;
+}
+
+blockquote {
+  padding-left: 15px;
+  border-left: 3px solid #bbb;
+  color: #888;
+}
+
+hr {
+  border-top: 1px solid #eee;
+}
+
+span.code {
+  background-color: #eee;
+}
+
+pre {
+  background-color: #fdfdfd;
+  background: #272b2d;
+  color: #888;
+}
+
+tr>td {
+  border-top: 1px solid #eaeaea;
+}
+
+tr:nth-child(odd)>td {
+  background: #fcfcfc;
+}
+
+thead th,th {
+  color: #444;
+  border-bottom: 1px solid #dadadc;
+}
+
+nav a.btn {
+  color: #222;
+}
+
+nav a.btn:hover, a.btn.active {
+  background-color: #222;
+  color: white;
+  border: 0.175em solid #222;
+}
+
+.profile #avatar {
+  border: 5px solid #222;
+}
+
+#avatar.small {
+  border: 3px solid #222;
+}
+
+.profile h2 {
+  font-weight: 300;
+  color: #bbb;
+  margin-top: 10px;
+  font-style: normal;
+}
+
+/* Post List */
+#post-list,#archive-list {
+  margin-top: 100px;
+}
+
+#post-list li,#archive-list li {
+  list-style-type: none;
+}
+
+#post-list li:last-child {
+  margin-bottom: 0;
+}
+
+#post-list li+li {
+  padding-top: 20px;
+  border-top: 1px solid #eee;
+}
+
+#post-list a {
+  color: #333;
+  display: block;
+  font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+}
+
+#post-list .dates {
+  float: right;
+  position: relative;
+  top: 1px;
+  font: 300 17px/1.8 "Helvetica Neue",helvetica,Arial,sans-serif;
+  color: #888;
+}
+
+#post-list-footer {
+  border-top: 1px solid #eee;
+  margin-top: 20px;
+  padding-top: 100px;
+}
+
+#archive-link {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 4px;
+  padding: 3px 10px 6px;
+  box-shadow: 0 0 0 1px hsla(207,83%,80%,1);
+}
+
+#archive-link:hover {
+  background: #5694f1;
+  color: #fff;
+  box-shadow: 0 0 0 1px #5694f1;
+}
+
+#archive-link span {
+  position: relative;
+  top: 0;
+  font-size: 17px;
+}
+
+#footer {
+  box-shadow: inset 0 1px 0 #eee;
+}
+
+/* Post Page */
+#header {
+  border-bottom: 1px solid #eee;
+}
+
+.post {
+  margin: 80px 0 0 0;
+}
+
+#post-meta {
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 1.4;
+  border-top: 1px solid #eee;
+  padding-top: 40px;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  margin-top: 40px;
+  color:#444;
+  border-bottom: 1px solid #eee;
+}
+
+#post-meta div span {
+  color: #aaa;
+  font-weight: 500;
+  display: block;
+}
+
+#post-meta div span.dark {
+  color: #1E2025;
+
+}
+
+#post-meta div {
+  margin: 0 25px 0 0;
+  float: left;
+}
+
+/* Post Navigation */
+#post-nav {
+  border-top:1px solid #eee;
+  text-align:center;
+  padding-top:20px;
+  font-size:13px;
+  font-weight:500;
+  margin-top: 40px;
+}
+
+#post-nav span {
+  -webkit-transition: all 0.1s linear;
+  -moz-transition: all 0.1s linear;
+  -ms-transition: all 0.1s linear;
+  -o-transition: all 0.1s linear;
+  transition: all 0.1s linear;
+  position: relative;
+}
+
+#post-nav span.prev {
+  float: left;
+}
+
+#post-nav span.next {
+  float: right;
+}
+
+#post-nav span .arrow {
+  position: relative;
+  padding: 1px;
+}
+
+#post-nav span.prev:hover .arrow {
+  left: -4px;
+}
+
+#post-nav span.next:hover .arrow {
+  right: -4px;
+}
+
+#post-nav span.prev:hover {
+  left: -3px;
+}
+
+#post-nav span.next:hover {
+  right: -3px;
+}
+
+/* Social */
+#social {
+  height: 3em;
+}
+
+#social a {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+/* Archive */
+h1.archive {
+  margin-bottom: 0px;
+}
+
+h2.month {
+  width: 100%;
+  font: bold 13px/1 "Helvetica Neue",helvetica,Arial,sans-serif;
+  text-transform: uppercase;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+#archive-list li:last-child {
+  margin-bottom: 0;
+}
+
+#archive-list a {
+  display: block;
+  font: bold 17px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+  color: #333;
+}
+
+#archive-list .dates {
+  float: right;
+  position: relative;
+  top: 1px;
+  font: 300 17px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+  color: #888;
+}
+
+#archive-list li a:hover,#archive-list li:hover .dates {
+  color: #5694f1;
+}
+
+#post-meta img.avatar {
+  height: 36px;
+  width: 36px;
+  float: left;
+  border-radius: 50%;
+  margin-top: 3px;
+  margin-right: 20px;
+  box-shadow: 0 0 0 3px #fff, 0 0 0 4px #eee;
+}
+
+#post-list.archive.readmore h3{
+  font: 400 20px "Helvetica Neue", Helvetica,Arial,sans-serif;
+  margin-bottom: 30px;
+}
+
+#post-list.archive.readmore a{
+  font: 400 16px/1.6 "Helvetica Neue",helvetica,Arial,sans-serif;
+  color: #5694f1;
+}
+
+#post-list.archive.readmore a:hover{
+  opacity: 0.8;
+}
+
+#post-list.archive.readmore .dates{
+  font: 300 16px/1.6 "Helvetica Neue",helvetica,Arial,sans-serif;
 }
