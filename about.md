@@ -21,7 +21,7 @@ For a more comphrensive list of my achievements and experience, you can view my 
 
 ## Interests
 
-I enjoy learning new programming languages. My favorite all-purpose language is [Go](https://golang.org) but I am also recently enjoying learning [Haskell](haskell.org).
+I enjoy learning new programming languages. My favorite all-purpose language is [Go](https://golang.org) but I am also recently enjoying learning [Haskell](http://haskell.org).
 
 I am interested in the following fields of computer science:
 
