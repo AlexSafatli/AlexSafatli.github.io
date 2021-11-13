@@ -20,7 +20,7 @@ This is a small selection of projects I have touched and am proud of. Visit my [
 #### Roleplaying
 
   - [Saber](https://github.com/AlexSafatli/Saber): An engine to provide tooling and algorithm implementation for character, setting, history, and story element generation for tabletop roleplaying games. *Go*.
-  - [airtable-dnd](https://github.com/AlexSafatli/airtable-dnd): A CLI tool that leverages [Airtable](https://airtable.com) in order to automate components of play in real-time for an ongoing D&D 5th Edition campaign. 
+  - [airtable-dnd](https://github.com/AlexSafatli/airtable-dnd): A CLI tool that leverages [Airtable](https://airtable.com) in order to automate components of play in real-time for an ongoing D&D 5th Edition campaign. *Go*.
   - [MeatGrinder](https://github.com/AlexSafatli/MeatGrinder): A web app that automates an element of combat game mechanics present in the GURPS tabletop RPG. Self-hostable using [Docker](https://www.docker.com/) and created in [Flask](https://flask.palletsprojects.com/en/2.0.x/). *Python*.
 
 ### Web
