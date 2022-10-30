@@ -6,7 +6,7 @@ title: About
 
 ## I am...
 
-I am a software engineer who graduated with a M.S.E. in CS and started studies for a PhD in Computer Science at Dalhousie University.
+I am a software engineer and PhD candidate who graduated with a M.S.E. in CS at Dalhousie University.
 
 I enjoy teaching. And I absolutely adore automating things and building systems from scratch. I regularly code and participate in [a number of projects]({{site.baseurl}}/projects), both small and large.
 
