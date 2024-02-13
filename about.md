@@ -14,8 +14,8 @@ Previously, I have...
 
   - Worked for [Amazon.com](https://amazon.com) in Seattle, WA.
   - Worked for a small number of software companies in Halifax, NS.
-  - Served as a TA for PPL, Operating Systems, Bioinformatics, Communications, Introduction to Computer Science, and Python.
-  - Won several NSERC USRA awards and served as a RA in a handful of chemistry labs.
+  - Served as a TA for PPL, Operating Systems, Algorithm Engineering, Bioinformatics, Communications, Programming for Business, Introduction to Computer Science, and Python.
+  - Won several NSERC USRA awards and served as a RA and Research Fellow in a handful of chemistry and computer science labs.
 
 For a more comphrensive list of my achievements and experience, you can view my resume or CV by clicking the links above.
 
