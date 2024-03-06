@@ -11,11 +11,14 @@ This is a small selection of projects I have touched and am proud of. Visit my [
 
   - [os](https://github.com/AlexSafatli/os): An x86 32-bit operating system used to explore concepts of OS and architecture. *C, Assembly*.
 
+## Computational Biology
+
+Work arising from research in **computational biology** or bioinformatics.
+
+  - [Pylogeny](https://github.com/AlexSafatli/Pylogeny): A peer-reviewed and [journal-published](https://peerj.com/articles/cs-9/) framework for working with discrete combinatorics in [phylogeny](http://en.wikipedia.org/wiki/Phylogenetics). *Python*.
+  - [ABeRMuSA](https://github.com/AlexSafatli/ABeRMuSA): A CLI utility for three-dimensional protein structure alignment by using a simple pairwise alignment strategy. *Python*.
+
 ### Automation
-
-#### Multimedia
-
-  - [senketsu](https://github.com/AlexSafatli/senketsu): [Plex](https://plex.tv)/[Kodi](https://kodi.tv/) library CLI tool that leverages [Airtable](https://airtable.com/). Written and scaled to help manage terabytes of video files I have at home. Recently rewritten in Go from Python for better performance and control. *Go, Python*.
 
 #### Roleplaying
 
@@ -24,19 +27,16 @@ This is a small selection of projects I have touched and am proud of. Visit my [
   - [Excalibur](https://github.com/AlexSafatli/Excalibur): A JSON-to-HTML renderer for structured character sheets. *Go*.
   - [MeatGrinder](https://github.com/AlexSafatli/MeatGrinder): A web app that automates an element of combat game mechanics present in the GURPS tabletop RPG. Self-hostable using [Docker](https://www.docker.com/) and created in [Flask](https://flask.palletsprojects.com/en/2.0.x/). *Python*.
 
+#### Multimedia
+
+  - [senketsu](https://github.com/AlexSafatli/senketsu): [Plex](https://plex.tv)/[Kodi](https://kodi.tv/) library CLI tool that leverages [Airtable](https://airtable.com/). Written and scaled to help manage terabytes of video files I have at home. Recently rewritten in Go from Python for better performance and control. *Go, Python*.
+
 ### Web
 
 #### Discord
 
   - [Garrus](https://github.com/AlexSafatli/Garrus): A [Discord](https://discordapp.com) bot for automation and sound tomfoolery written to be low resource footprint and have minimal basic functionality. *Go*.
   - [NootBot](https://github.com/AlexSafatli/NootBot): The monolithic but mature and functional precursor to *Garrus*. Was hosted and maintained for six years. *Java with [Spring Boot](https://spring.io/projects/spring-boot)*.
-
-## Computational Biology
-
-Work arising from research in **computational biology** or bioinformatics.
-
-  - [Pylogeny](https://github.com/AlexSafatli/Pylogeny): A peer-reviewed and [journal-published](https://peerj.com/articles/cs-9/) framework for working with discrete combinatorics in [phylogeny](http://en.wikipedia.org/wiki/Phylogenetics). *Python*.
-  - [ABeRMuSA](https://github.com/AlexSafatli/ABeRMuSA): A CLI utility for three-dimensional protein structure alignment by using a simple pairwise alignment strategy. *Python*.
 
 ## Web-Based Services
 

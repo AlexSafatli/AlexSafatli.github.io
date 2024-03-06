@@ -4,6 +4,6 @@ profile: true
 title: Home
 ---
 
-**I'm studying for a PhD at Dalhousie University**.
+**I'm a seasoned software engineer and researcher**.
 
-I love system design, scalability, computer architecture, logic, and programming languages. Visit either my [About]({{site.baseurl}}/about) or [Projects]({{site.baseurl}}/projects) pages for more about what I do.
+I have a knack for understanding systems quickly and efficiently. I possess a large breadth of knowledge in many areas of computer science and possess a great deal of soft skills ranging from public speaking and publication to strong technical expertise and familiarity with many software stacks. I love combinatorics, system design, computer architecture, logic, and programming languages.
