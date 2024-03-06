@@ -8,6 +8,8 @@ title: About
 
 I am a software engineer and PhD candidate who graduated with a M.S.E. in CS at Dalhousie University.
 
+I have a knack for understanding systems quickly and efficiently. I possess a large breadth of knowledge in many areas of computer science and possess a great deal of soft skills ranging from public speaking and publication to strong technical expertise and familiarity with many software stacks.
+
 I enjoy teaching. I relish the chance to manage large projects. I absolutely adore automating things and building systems from scratch. And I regularly code and participate in [a number of projects]({{site.baseurl}}/projects), both small and large.
 
 Previously, I have...
